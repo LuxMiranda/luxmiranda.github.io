@@ -1,17 +1,17 @@
 ### Site info:
-title: Jack Miranda
+title: Lux Miranda
 tagline: Undergraduate Researcher in Cultural Evolution
-author: Jack Miranda
+author: Lux Miranda
 email: jack.miranda@aggiemail.usu.edu
-description: "Jack Miranda homepage" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "Lux Miranda homepage" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "miranda, anthropology, computer science, cultural evolution, mathematics, cliodynamics"
 baseurl: # the subpath of your site, e.g. /blog/
-url: "https://jackmiranda.net" # the base hostname & protocol for your site
+url: "https://luxmiranda.github.io" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
 twitter_username: elon
-github_username:  JackMiranda
+github_username:  LuxMiranda
 disqus_shortname: # FIXME
 favicon:     "/images/favicon.ico"
 aboutme: I'm an undergraduate in Mathematics, Computer Science, and Anthropology at Utah State University. I'm into space exploration and cultural evolution! # these are shown on aboutme-sidebar.
