@@ -142,11 +142,11 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-top-color, 25%);
+    color: $brand-top-color;
   }
 
   &:hover {
-    color: #669900; //$hover-color;
+    color: $hover-color;
     text-decoration: underline;
   }
 }
