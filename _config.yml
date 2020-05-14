@@ -44,6 +44,8 @@ locales:
       Blog: "Blog"
       Guestbook: "Guestbook"
       Subscribe: "Subscribe"
+      Publications: "Publications"
+      Contact: "Contact"
     cn:
       Aboutme: "关于我"
       Archives: "存档"
