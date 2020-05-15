@@ -6,7 +6,7 @@ email: lux.miranda@usu.edu
 description: "Lux Miranda homepage" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "miranda, anthropology, computer science, cultural evolution, mathematics, cliodynamics"
 baseurl: # the subpath of your site, e.g. /blog/
-url: "https://luxmiranda.github.io" # the base hostname & protocol for your site
+url: "https://luxmiranda.com" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:

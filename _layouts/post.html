@@ -4,6 +4,18 @@ layout: default
 <div class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    <!-- Social media meta tags -->
+      <meta property="twitter:title" content="{{ page.title }}">
+      <meta property="twitter:description" content="{{ page.excerpt }}">
+      <meta property="twitter:image" content="{{ page.image }}">
+      <meta property="twitter:image:alt" content="{{ page.imagealt }}">
+      <meta property="twitter:card" content="summary_large_image">
+      <meta property="og:title" content="{{ page.title }}">
+      <meta property="og:description" content="{{ page.excerpt }}">
+      <meta property="og:image" content="{{ page.image }}">
+      <meta property="og:url" content="{{ page.url }}">
+      <meta name="twitter:site" content="@{{ site.twitter_username}}">
+    <!---------------------------->
     <h1 itemprop="name" class="post-title">{{ page.title }}</h1>
     <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
     <p class="post-meta">
@@ -24,6 +36,7 @@ layout: default
   </header>
 
   <article class="post-content" itemprop="articleBody">
+    <img src="{{ page.image }}" alt="{{ page.imagealt }}" /><br />
     {{ content }}
   </article>
   <hr />
