@@ -56,3 +56,29 @@ Actually tasty and super cheap ramen that tastes a bit like Pad Thai but not rea
 4. Drain about 3/4 of the water from the bowl.  
 5. Add peanut butter, about 3/5 of the flavor packet, and hot sauce.  
 6. Stir until the peanut butter has become one with the ramen. Enjoy!  
+
+---
+
+### Estus
+
+Fight off the darkness with this liquid sunshine. 
+
+**Makes**: Estus for two
+
+**Ingredients**:
+* 0.5oz. (16 ml.) lemon juice
+* 4 oz. (120 ml.) tangerine, pineapple, or orange juice
+* 0.5oz. (16 ml.) cherry liqueur
+* 0.5oz. (16 ml.) cinnamon syrup
+* 1.5 oz. (44 ml.) brandy
+* 0.5 oz. (16 ml.) rum, any variety, at least 90 proof
+* Cinnamon (for theatrics)
+
+**Directions**:
+1. Over ice, combine and shake all ingredients except for the rum.
+2. Add 0.25 oz. (8ml.) rum into a serving glass.
+3. Light the rum on fire.
+4. Shake cinnamon into the fire, producing a great flame.
+5. Extinguish the flame by pouring the mixture into the serving glass.
+
+Adapted from Greg Titian's recipe, which was too bougey and too boozey.
