@@ -67,7 +67,7 @@ Fight off the darkness with this liquid sunshine.
 
 **Ingredients**:
 * 0.5oz. (16 ml.) lemon juice
-* 4 oz. (120 ml.) tangerine, pineapple, or orange juice
+* 4 oz. (120 ml.) tangerine juice or Sunny-D
 * 0.5oz. (16 ml.) cherry liqueur
 * 0.5oz. (16 ml.) cinnamon syrup
 * 1.5 oz. (44 ml.) brandy
