@@ -66,13 +66,13 @@ Fight off the darkness with this liquid sunshine.
 **Makes**: Estus for two
 
 **Ingredients**:
-* 0.5oz. (16 ml.) lemon juice
-* 4 oz. (120 ml.) tangerine juice or Sunny-D
-* 0.5oz. (16 ml.) cherry liqueur
-* 0.5oz. (16 ml.) cinnamon syrup
-* 1.5 oz. (44 ml.) brandy
-* 0.5 oz. (16 ml.) rum, any variety, at least 90 proof
-* Cinnamon (for theatrics)
+* 0.5oz.  (15 ml.) lemon juice
+* 3 oz.   (90 ml.) tangerine juice or Sunny-D
+* 0.5 oz. (15 ml.) cherry liquor
+* 1.0oz.  (30 ml.) triple sec
+* 2.0 oz. (60 ml.) brandy
+* 0.5 oz. (15 ml.) rum, at least 90 proof
+* Cinnamon
 
 **Directions**:
 1. Over ice, combine and shake all ingredients except for the rum.
