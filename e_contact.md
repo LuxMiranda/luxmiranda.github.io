@@ -12,4 +12,4 @@ Anthropology Program<br />
 Utah State University<br />
 0730 Old Main<br />
 Logan, Utah, USA 84322<br />
-Email: <strong>lux (dot) miranda (at) usu (dot) edu</strong>
+Email: <strong>contact (at) luxmiranda (dot) com</strong>
