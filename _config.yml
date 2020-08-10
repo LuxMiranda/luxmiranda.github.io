@@ -1,16 +1,15 @@
 ### Site info:
 title: Lux Miranda
-tagline: Undergraduate Researcher in Cultural Evolution
 author: Lux Miranda
-email: lux.miranda@usu.edu
+email: lux@knights.ucf.edu
 description: "Lux Miranda homepage" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "miranda, anthropology, computer science, cultural evolution, mathematics, cliodynamics"
+keywords: "miranda, anthropology, computer science, cultural evolution, mathematics, cliodynamics, complex adaptive systems, complexity"
 baseurl: # the subpath of your site, e.g. /blog/
 url: "https://luxmiranda.com" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: MxLuxMiranda
+twitter_username: MirandaLucis
 github_username:  LuxMiranda
 disqus_shortname: # FIXME
 favicon:     "/images/favicon.ico"
