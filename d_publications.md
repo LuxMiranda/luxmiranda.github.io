@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-comments: yes
 permalink: /publications/
 ---
 

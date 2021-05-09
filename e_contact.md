@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact
-comments: yes
 permalink: /contact/
 ---
 
