@@ -13,15 +13,28 @@ $base-line-height: 1.6em;
 
 $spacing-unit:     15px;
 
-$text-color:       #111;
-$background-color: #f9f9f9;
-$brand-color:      #2a7ae2;
+// Light
+//$text-color:       #111;
+//$background-color: #f9f9f9;
+//$brand-color:      #2a7ae2;
+//$brand-top-color:  #ffa200;
+//$hover-color:      #ff0095;
+//$box-shadow:       1px 1px 10px #BBB;
+
+// Dark
+$text-color:       #d8d4cf;
+$background-color: #181a1b;
+$brand-color:      #ff0095;
 $brand-top-color:  #ffa200;
 $hover-color:      #ff0095;
+$scrollbar-color:  #454a4d #202324;
+$borders:          1px solid rgb(54, 59, 61);
+$box-shadow:       none;
+
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-light: lighten($grey-color, 100%);
+$grey-color-dark:  darken($grey-color, 75%);
 
 $code-backgroud-color: #29281e;
 $code-font-color:  #eee;  

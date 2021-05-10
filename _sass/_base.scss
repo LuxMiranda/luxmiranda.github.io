@@ -8,12 +8,14 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-
+* {
+  scrollbar-color: $scrollbar-color;
+}
 
 /**
  * Basic styling
  */
-body {
+body,input {
   font-family: $base-font-family;
   font-size: $base-font-size;
   line-height: $base-line-height;
@@ -21,6 +23,10 @@ body {
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
+}
+
+input {
+  border: $borders !important;
 }
 
 
@@ -53,10 +59,10 @@ ul, ol, dl, figure,
   padding-left: $spacing-unit;
   padding-top:30px;
 
-  background-color:#fff;
+  background-color:$background-color;
   margin-top:20px;
   margin-bottom:30px;
-  box-shadow: 1px 1px 10px #BBB;
+  box-shadow: $box-shadow;
 }
 
 /*for media*/
@@ -157,7 +163,7 @@ a {
   text-decoration: none;  
   border-bottom: 1px dotted;
   &:visited {             
-    color: darken($brand-color, 25%);
+    color: $brand-color;
   }                       
 
   &:hover {               
@@ -285,20 +291,20 @@ table {
   font-size: $small-font-size;
 }
 table tr {
-  border-top: 1px solid #cccccc;
-  background-color: white;
+  border-top: $borders;
+  background-color: $background-color;
   margin: 0;
   padding: 0;
 }
 table tr:nth-child(2n) { background-color: #f8f8f8; }
 table tr th {
   font-weight: bold;
-  border: 1px solid #cccccc;
+  border: $borders;
   margin: 0;
   padding: 3px 6px;
 }
 table tr td {
-  border: 1px solid #cccccc;
+  border: $borders;
   margin: 0;
   padding: 3px 6px;
 }
@@ -319,4 +325,17 @@ hr{
 cite{ 
   font-style: italic;
   text-decoration: underline;
+}
+
+.sidebar-module h4 {
+  color: $text-color !important;
+}
+
+.site-nav {
+  border-top: $borders !important;
+  border-bottom: $borders !important;
+}
+
+.site-footer {
+  border-top: $borders !important;
 }
