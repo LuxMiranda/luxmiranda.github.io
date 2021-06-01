@@ -8,26 +8,30 @@ permalink: /recipes/
 
 Delicious seitan with an excellent texture.
 
+_"This is plausibly meat!" -- Noted Carnivore Ammon Hepworth_
+
+When breaded with panko and served with golden curry sauce and broccoli over rice, this seitan is a remarkable emulation of Wagamam's "Vegatsu"
+
 **Makes**: 1 loaf
 
 **Ingredients**:
-* 2 cups wheat gluten
-* 1 cup nutritional yeast flakes
-* 1 tsp cumin
-* 1 tbsp garlic powder
-* 1 tbsp onion powder
-* 1 tsp smoked paprika
-* 1 1/2 tsp sage or thyme
-* 1 1/2 cups "better than boullion" vegetable broth
-* 1/2 cup water
-* 1/8 cup ketchup
-* 2 tbsp soy sauce
-* 2 tbsp olive oil
+* 240 g (2 cups) vital wheat gluten
+* 82 g (1 cup) nutritional yeast flakes
+* 5 mL (1 tsp) cumin
+* 15 mL (1 Tbsp) garlic powder
+* 15 mL (1 Tbsp) onion powder
+* 5 mL (1 tsp) smoked paprika
+* 7.5 mL (1.5 tsp) sage or thyme
+* 350 mL (1.5 cups) vegan broth (I recommend "Better than Bullion")
+* 120 mL (0.5 cups) water
+* 30 mL (2 Tbsp) ketchup
+* 30 mL (2 Tbsp) Kikkoman soy sauce (there is no good substitute for Kikkoman available in most western grocery stores, just get it) 
+* 30 mL (2 Tbsp) olive oil
 
 **Directions**:
-1. Preheat oven to 325 degrees Fahrenheit  
+1. Preheat oven to 165°C (325°F)
 2. Mix all dry ingredients in a large bowl.  
-3. In a seperate second bowl, combine wet ingredients and mix well.  
+3. In a separate second bowl, combine wet ingredients and mix well.  
 4. Slowly incorporate the wet mix into the dry mix into a dough  
 5. Turn dough out onto a flat, sterile surface and knead for several minutes  
 6. Shape dough into a loaf and wrap in aluminum foil  
@@ -38,23 +42,37 @@ Delicious seitan with an excellent texture.
 
 ### Undergrad Pad Thai
 
-Actually tasty and super cheap ramen that tastes a bit like Pad Thai but not really.
+Put peanut butter in your instant ramen. It's life-changing.
 
-**Makes**: 1 bowl
+---
 
-**Ingredients**:
-* 1 package soy-sauce-flavor Top Ramen instant noodles
-* Frozen stir-fry vegetables
-* 1 scoop "natural" peanut butter (the kind with only peanuts and salt)
-* Your favorite hot sauce (optional)
+### One-pot Grad Nutriment
+
+Quick and easy! Nutritionally balanced! Wholesome! Healthy! Possibly tastes good!
+
+Once prepared, this makes several meals and can be eaten hot or cold. 
+
+**Makes**: Several meals
+
+**Ingredients**: 
+
+* 400 g (14 oz) brown rice
+* 400 g (14 oz) green vegetables (broccoli, kale, green beans... Mix it up!)
+* 1 standard package of tofu (also about 400g / 14 oz)
+* 60 mL (4 Tbsp) Kikkoman low-sodium soy sauce
+* 8 dL (3.5 cups) vegan broth (I recommend "Better than Bullion")
+* 30 mL (2 Tbsp) olive oil
 
 **Directions**:
-1. Place the dry noodles in a bowl. Add frozen veggies.  
-2. Add enough water to cover the noodles without overflowing your bowl. It's okay if the veggies aren't covered.  
-3. Microwave for approximately 5 minutes. You ideally want the water to boil a bit.  
-4. Drain about 3/4 of the water from the bowl.  
-5. Add peanut butter, about 3/5 of the flavor packet, and hot sauce.  
-6. Stir until the peanut butter has become one with the ramen. Enjoy!  
+
+1. In a pot, bring the broth and soy sauce to a boil.
+2. Add in rice and olive oil. Stir.
+3. Using your hands, crumble the tofu and add. Stir.
+4. Once the mixture is boiling again, add in the green vegetables. Do not stir.
+5. Cover the pot, reduce the heat to low, and allow to simmer for 30-50 minutes.
+6. Stir. When the rice is fully cooked, it is ready to eat!
+
+Served hot or cold. Plate optional. 
 
 ---
 
@@ -65,13 +83,14 @@ Fight off the darkness with this liquid sunshine.
 **Makes**: Estus for two
 
 **Ingredients**:
-* 0.5oz.  (15 ml.) lemon juice
-* 3 oz.   (90 ml.) tangerine juice or Sunny-D
-* 0.5 oz. (15 ml.) cherry liquor
-* 1.0oz.  (30 ml.) triple sec
-* 2.0 oz. (60 ml.) brandy
-* 0.5 oz. (15 ml.) rum, at least 90 proof
-* Cinnamon
+* 15 mL (0.5 oz) lemon juice
+* 90 mL (3.0 oz) tangerine juice or Sunny-D
+* 15 mL (0.5 oz) cherry liquor
+* 30 mL (1.0 oz) triple sec
+* 60 mL (2.0 oz) brandy
+* 15 mL (0.5 oz) rum, at least 90 proof
+* Cinnaon
+
 
 **Directions**:
 1. Over ice, combine and shake all ingredients except for the rum.
