@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<br>
+---
 
 ### Peer-reviewed works 
 
