@@ -22,7 +22,7 @@ When breaded with panko and served with golden curry sauce and broccoli over ric
 * 15 mL (1 Tbsp) onion powder
 * 5 mL (1 tsp) smoked paprika
 * 7.5 mL (1.5 tsp) sage or thyme
-* 350 mL (1.5 cups) vegan broth (I recommend "Better than Bullion")
+* 350 mL (1.5 cups) vegan broth (I recommend "Better Than Bouillon")
 * 120 mL (0.5 cups) water
 * 30 mL (2 Tbsp) ketchup
 * 30 mL (2 Tbsp) Kikkoman soy sauce (there is no good substitute for Kikkoman available in most western grocery stores, just get it) 
@@ -99,4 +99,4 @@ Fight off the darkness with this liquid sunshine.
 4. Shake cinnamon into the fire, producing a great flame.
 5. Extinguish the flame by pouring the mixture into the serving glass.
 
-Adapted from Greg Titian's recipe, which was too bougey and too boozey.
+Adapted from Greg Titian's recipe, which was too bougie and too boozey.
