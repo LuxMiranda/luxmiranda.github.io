@@ -13,7 +13,7 @@ twitter_username: MirandaLucis
 github_username:  LuxMiranda
 disqus_shortname: # FIXME
 favicon:     "/images/favicon.ico"
-aboutme: I'm an undergraduate in Mathematics, Computer Science, and Anthropology at Utah State University. I'm into space exploration and cultural evolution! # these are shown on aboutme-sidebar.
+aboutme:  # these are shown on aboutme-sidebar.
 aboutme_photo: /images/lux.png # your photo.
 google_analytics_key: # put YOUR key here to enable tracking! (blank to disable)
 
@@ -27,6 +27,7 @@ locales:
     en:
       Aboutme: "About Me"
       Recipes: "Recipes"
+      CV: "CV"
       Archives: "Archives"
       Blogroll: "Blogroll"
       Categories: "Categories"
