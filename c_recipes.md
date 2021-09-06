@@ -55,7 +55,6 @@ My go-to chocolate chip cookies! You're bound to receive some of these if I like
 **Ingredients**:
 
 * 56 g (0.25 cup) vegan butter
-* 56 g (0.25 cup) promiscuous olive oil (not extra virgin)
 * 85 g (0.5 cup) brown sugar
 * 43 g (0.25 cup) cane sugar
 * 15 mL (1 Tbsp) flax seed meal / ground flax seed
