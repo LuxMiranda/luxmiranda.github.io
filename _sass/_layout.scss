@@ -9,6 +9,7 @@
 }
 
 .site-title {
+  font-family: 'Forum', 'EB Garamond', serif !important;
   font-size: 38px;
   line-height: 56px;
   letter-spacing: -1px;
@@ -82,7 +83,7 @@
         height: 30px;
 
         path {
-          fill: $grey-color-dark;
+          fill: $text-color;
         }
       }
     }
