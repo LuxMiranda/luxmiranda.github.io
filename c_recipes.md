@@ -48,19 +48,19 @@ Put peanut butter in your instant ramen. It's life-changing.
 
 ### Secret Shea Chocolate Chip Cookies
 
-Equal parts witchcraft, scientific research, and trial and error have gone into perfecting my cookie recipe. Only the brave will dare to attempt summoning these perfectly soft, chewy, plant-based cookies; Few are they who shall know their supernaturally anti-hypercholesterolemic yet unsacrificing deliciousness.
+Equal parts witchcraft, scientific research, and trial and error have gone into perfecting this recipe. Only the brave will dare to attempt summoning these perfectly soft, chewy, plant-based cookies; Few are they who shall know their supernatural, cholesterol-reducing yet unsacrificing deliciousness.
 
 **Makes**: A little more than 12 cookies
 
 **Ingredients**:
 
-* 56 g unrefined shea butter
-* 85 g (0.5 cup) brown sugar
-* 43 g (0.25 cup) cane sugar
-* 15 mL (1 Tbsp) flax seed meal / ground flax seed
+* 56 g **unrefined shea butter**. Be careful sourcing your shea butter; only unrefined (grade A) is edible. I recommend [FairTale Ghana](https://fairtaleghana.org).
+* 85 g (0.5 cup) brown sugar or maple syrup
+* 43 g (0.25 cup) cane sugar or agave syrup
+* 15 mL (1 Tbsp) ground flax or chia seed
 * 30 mL (2 Tbsp) water
 * 10 mL (2 tsp) vanilla extract
-* 180 g (1.5 cups) whole-wheat flour
+* 180 g (1.5 cups) whole-wheat flour 
 * 2.5 mL (0.5 tsp) baking soda
 * 2 mL (0.25 tsp) salt
 * 175 g (1 cup) vegan chocolate chunks
@@ -70,44 +70,50 @@ Equal parts witchcraft, scientific research, and trial and error have gone into 
 2. Preheat oven to 180°C (350°F)
 3. Melt the shea butter using your preferred method, and add it to a large cooking bowl. 
 4. Add in the brown and cane sugar. Whisk until homogeneous.
-5. In a separate bowl (or very , sift together the flour, baking soda, and salt.
-6. Remove the flax egg from its cold place. Add it to the oil and sugar bowl along with the vanilla extract. Combine until homogeneous. 
-7. Combine the dry and wet ingredients until homogenous. 
+5. In a separate bowl (or, very carefully, in a new layer in the same bowl), sift together the flour, baking soda, and salt.
+6. Remove the flax egg from its cold place. 
+7. Combine vanilla and all dry and wet ingredients until homogeneous. 
 8. Fold in the chocolate chips.
-9. Form into cookie shapes and place onto a baking sheet lined with parchment paper.
-10. Bake for 10 minutes. They won't seem done right when they come out, but trust me; It's easy to overcook this recipe! The cookies will firm up once they're allowed to cool, leaving you with a nice fluffy but chewy textur
+9. Form into cookie shapes and place onto a baking sheet lined with compostable parchment paper.
+10. Bake for 10 minutes. They won't seem done right when they come out, but trust me; It's easy to overcook this recipe! The cookies will firm up once they're allowed to cool, leaving you with a nice fluffy but chewy texture.
 11. Don't eat too many! Or too few! Eat just the right amount :) 
-
 
 ---
 
-### One-pot Grad Nutriment
+### Decolonized American Corn Cookies
 
-Quick and easy! Nutritionally balanced! Wholesome! Healthy! Possibly tastes good!
+Those with any sort of ancestral connection to the region will delight to find that this entire recipe consists exclusively of ingredients native to the North American continent. In particular, with the exception of maple syrup (easily substituted for local honey or more agave), each ingredient was widely eaten and available within the Aztec Empire prior to Columbian contact. 
 
-Once prepared, this makes several meals and can be eaten hot or cold. 
+"But the Aztecs didn't have chemically synthesized baking soda!" I hear you exclaim. Fine, then, you pedant, replace it with [tequesquite](https://en.wikipedia.org/wiki/Tequesquite)!
 
-**Makes**: Several meals
+One may also delight in, I argue, each ingredient being a healthier choice than its European baking counterpart. For example, avocado oil is better for cholesterol than cow butter, agave has a lower glycemic index than cane sugar, corn flour has fewer calories and is more nutritious than white flour (and about as healthy as whole-wheat flour), etc. 
 
-**Ingredients**: 
+**Makes**: A little more than 12 cookies
 
-* 400 g (14 oz) brown rice
-* 400 g (14 oz) green vegetables (broccoli, kale, green beans... Mix it up!)
-* 1 standard package of tofu (also about 400g / 14 oz)
-* 60 mL (4 Tbsp) Kikkoman low-sodium soy sauce
-* 8 dL (3.5 cups) vegan broth (I recommend "Better than Bullion")
-* 30 mL (2 Tbsp) olive oil
+**Ingredients**:
+
+* 56 g (0.25 cup) avocado oil
+* 85 g (0.5 cup) maple syrup or local honey
+* 43 g (0.25 cup) agave syrup
+* 15 mL (1 Tbsp) chia seed meal / ground chia seed
+* 60 g (0.25) pumpkin puree
+* 30 mL (2 Tbsp) water
+* 10 mL (2 tsp) vanilla extract
+* 180 g (1.5 cups) masa harina (instant corn flour)
+* 2.5 mL (0.5 tsp) baking soda
+* 2 mL (0.25 tsp) salt
 
 **Directions**:
-
-1. In a pot, bring the broth and soy sauce to a boil.
-2. Add in rice and olive oil. Stir.
-3. Using your hands, crumble the tofu and add. Stir.
-4. Once the mixture is boiling again, add in the green vegetables. Do not stir.
-5. Cover the pot, reduce the heat to low, and allow to simmer for 30-50 minutes.
-6. Stir. When the rice is fully cooked, it is ready to eat!
-
-Served hot or cold. Plate optional. 
+1. Combine water and chia meal well. Then, store in a freezer or fridge. This makes a chia egg! Combining can be accomplished through whisking with a fork in a bowl or, my preferred method, shaking together in a glass jar. 
+2. Preheat oven to 180°C (350°F)
+3. Add avocado oil to a large cooking bowl.
+4. Add in the maple and agave syrup. Whisk until homogeneous.
+5. In a separate bowl (or, very carefully, in a new layer in the same bowl), sift together the masa harina, baking soda, and salt.
+6. Remove the chia egg from its cold place.
+7. Combine chia egg, vanilla, and all wet and dry ingredients until homogeneous.
+8. Form into cookie shapes and place onto a baking sheet lined with compostable parchment paper.
+9. Bake for 10 minutes.
+10. [Huelmati](https://nahuatl.uoregon.edu/content/huelmati)!
 
 ---
 
