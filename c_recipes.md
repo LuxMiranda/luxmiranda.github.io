@@ -54,7 +54,7 @@ Equal parts witchcraft, scientific research, and trial and error have gone into 
 
 **Ingredients**:
 
-* 56 g **unrefined shea butter**. Be careful sourcing your shea butter; only unrefined (grade A) is edible. I recommend [FairTale Ghana](https://fairtaleghana.org).
+* 40 g **unrefined shea butter**. Be careful sourcing your shea butter; only unrefined (grade A) is edible. I recommend [FairTale Ghana](https://fairtaleghana.org).
 * 85 g (0.5 cup) brown sugar or maple syrup
 * 43 g (0.25 cup) cane sugar or agave syrup
 * 15 mL (1 Tbsp) ground flax or chia seed
@@ -69,20 +69,21 @@ Equal parts witchcraft, scientific research, and trial and error have gone into 
 1. Combine water and flax seed well. Then, store in a freezer or fridge. This makes a flax egg! Combining can be accomplished through whisking with a fork in a bowl or, my preferred method, shaking together in a glass jar. 
 2. Preheat oven to 180°C (350°F)
 3. Melt the shea butter using your preferred method, and add it to a large cooking bowl. 
-4. Add in the brown and cane sugar. Whisk until homogeneous.
-5. In a separate bowl (or, very carefully, in a new layer in the same bowl), sift together the flour, baking soda, and salt.
-6. Remove the flax egg from its cold place. 
-7. Combine vanilla and all dry and wet ingredients until homogeneous. 
-8. Fold in the chocolate chips.
-9. Form into cookie shapes and place onto a baking sheet lined with compostable parchment paper.
-10. Bake for 10 minutes. They won't seem done right when they come out, but trust me; It's easy to overcook this recipe! The cookies will firm up once they're allowed to cool, leaving you with a nice fluffy but chewy texture.
-11. Don't eat too many! Or too few! Eat just the right amount :) 
+4. Add in the brown and cane sugar. Whisk until homogeneous. 
+5. Remove the flax egg from its cold place
+6. Add vanilla and flax egg to the mixture. (Optionally: Beat with an electric mixer for a bit to achieve cookies with a slightly fluffier texture). 
+7. In a separate bowl (or, very carefully, in a new layer in the same bowl), sift together the flour, baking soda, and salt.
+8. Combine all dry and wet ingredients until homogeneous. 
+9. Fold in the chocolate chips.
+10. Form into cookie shapes and place onto a baking sheet lined with compostable parchment paper.
+11. Bake for 10 minutes. They won't seem done right when they come out, but trust me; It's easy to overcook this recipe! The cookies will firm up once they're allowed to cool, leaving you with a nice fluffy but chewy texture.
+12. Don't eat too many! Or too few! Eat just the right amount :) 
 
 ---
 
-### Decolonized American Corn Cookies
+### Decolonized Pumpkin Corn Cookies
 
-Those with any sort of ancestral connection to the region will delight to find that this entire recipe consists exclusively of ingredients native to the North American continent. In particular, with the exception of maple syrup (easily substituted for local honey or more agave), each ingredient was widely eaten and available within the Aztec Empire prior to Columbian contact. 
+Those with any sort of ancestral connection to the region will delight to find that this recipe consists exclusively of ingredients native to the North American continent. In particular, with the exception of maple syrup (easily substituted for local honey or more agave), each ingredient was widely eaten and available within the Aztec Empire prior to Columbian contact. 
 
 "But the Aztecs didn't have chemically synthesized baking soda!" I hear you exclaim. Fine, then, you pedant, replace it with [tequesquite](https://en.wikipedia.org/wiki/Tequesquite)!
 
@@ -108,12 +109,13 @@ One may also delight in, I argue, each ingredient being a healthier choice than 
 2. Preheat oven to 180°C (350°F)
 3. Add avocado oil to a large cooking bowl.
 4. Add in the maple and agave syrup. Whisk until homogeneous.
-5. In a separate bowl (or, very carefully, in a new layer in the same bowl), sift together the masa harina, baking soda, and salt.
-6. Remove the chia egg from its cold place.
-7. Combine chia egg, vanilla, and all wet and dry ingredients until homogeneous.
-8. Form into cookie shapes and place onto a baking sheet lined with compostable parchment paper.
-9. Bake for 10 minutes.
-10. [Huelmati](https://nahuatl.uoregon.edu/content/huelmati)!
+5. Remove the chia egg from its cold place.
+6. Add chia egg and vanilla to the mixture. Whisk until homogeneous.
+7. In a separate bowl (or, very carefully, in a new layer in the same bowl), sift together the masa harina, baking soda, and salt.
+8. Combine all wet and dry ingredients until homogeneous.
+9. Form into cookie shapes and place onto a baking sheet lined with compostable parchment paper.
+10. Bake for 10 minutes.
+11. [Huelmati](https://nahuatl.uoregon.edu/content/huelmati)!
 
 ---
 
@@ -124,20 +126,16 @@ Fight off the darkness with this liquid sunshine.
 **Makes**: Estus for two
 
 **Ingredients**:
-* 15 mL (0.5 oz) lemon juice
+* 15 mL (0.5 oz) lime or lemon juice
 * 90 mL (3.0 oz) tangerine juice or Sunny-D
-* 15 mL (0.5 oz) cherry liquor
-* 30 mL (1.0 oz) triple sec
-* 60 mL (2.0 oz) brandy
-* 15 mL (0.5 oz) rum, at least 90 proof
-* Cinnaon
-
+* 45 mL (1.5 oz) triple sec
+* 75 mL (2.5 oz) rum, at least 90 proof
+* Cinnamon to taste
 
 **Directions**:
-1. Over ice, combine and shake all ingredients except for the rum.
-2. Add 0.25 oz. (8ml.) rum into a serving glass.
+1. Over ice, combine and shake all ingredients except for 10 ml (0.25 oz) of rum.
+2. Add the 10 mL (0.25 oz) unmixed rum into a serving glass.
 3. Light the rum on fire.
 4. Shake cinnamon into the fire, producing a great flame.
 5. Extinguish the flame by pouring the mixture into the serving glass.
 
-Adapted from Greg Titian's recipe, which was too bougie and too boozey.
