@@ -123,7 +123,7 @@ I also think that each ingredient is either better or just as good for your heal
 
 ### Estus
 
-Fight off the darkness with this liquid sunshine. 
+Fight off the darkness with this liquid sunshine! Drink moderately and responsibly :) 
 
 **Makes**: Estus for two
 
