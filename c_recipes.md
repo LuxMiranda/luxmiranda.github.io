@@ -22,7 +22,7 @@ When breaded with panko and served with golden curry sauce and broccoli over ric
 * 15 mL (1 Tbsp) onion powder
 * 5 mL (1 tsp) smoked paprika
 * 7.5 mL (1.5 tsp) sage or thyme
-* 350 mL (1.5 cups) vegan broth (I recommend "Better Than Bouillon")
+* 350 mL (1.5 cups) vegan broth (For readers in the USA, I recommend "Better Than Bouillon")
 * 120 mL (0.5 cups) water
 * 30 mL (2 Tbsp) ketchup
 * 30 mL (2 Tbsp) Kikkoman soy sauce (Kikkoman is seriously the best soy sauce) 
@@ -46,15 +46,16 @@ Put peanut butter in your instant ramen. It's life-changing.
 
 ---
 
+
 ### Secret Shea Chocolate Chip Cookies
 
-Equal parts witchcraft, scientific research, and trial and error have gone into perfecting this recipe. Only the brave will dare to attempt summoning these perfectly soft, chewy, plant-based cookies; Few are they who shall know their supernatural, cholesterol-reducing yet unsacrificing deliciousness.
+Equal parts witchcraft, scientific research, and trial and error have gone into perfecting this recipe. Only the brave will dare to attempt summoning these perfectly soft, chewy, plant-based cookies; Few are they who shall know their supernatural, cholesterol-friendly yet unsacrificing deliciousness.
 
 **Makes**: A little more than 12 cookies
 
 **Ingredients**:
 
-* 40 g **unrefined shea butter**. Be careful sourcing your shea butter; only unrefined (grade A) is edible. I recommend [FairTale Ghana](https://fairtaleghana.org).
+* 40 g **unrefined shea butter**. Be careful sourcing your shea butter; only unrefined (grade A) is edible. For readers in the USA, I recommend [FairTale Ghana](https://fairtaleghana.org).
 * 85 g (0.5 cup) brown sugar or maple syrup
 * 43 g (0.25 cup) cane sugar or agave syrup
 * 15 mL (1 Tbsp) ground flax or chia seed
@@ -81,13 +82,14 @@ Equal parts witchcraft, scientific research, and trial and error have gone into 
 
 ---
 
+
 ### Decolonized Pumpkin Corn Cookies
 
 Those with any sort of ancestral connection to the region will delight to find that this recipe consists exclusively of ingredients native to the North American continent. In particular, with the exception of maple syrup (easily substituted for local honey or more agave), each ingredient was widely eaten and available within the Aztec Empire prior to Columbian contact. 
 
-"But the Aztecs didn't have chemically synthesized baking soda!" I hear you exclaim. Fine, then, you pedant, replace it with [tequesquite](https://en.wikipedia.org/wiki/Tequesquite)!
+"But the Aztecs didn't have chemically synthesized baking soda!" I hear you exclaim. But they sure had [tequesquite](https://en.wikipedia.org/wiki/Tequesquite)!
 
-One may also delight in, I argue, each ingredient being a healthier choice than its European baking counterpart. For example, avocado oil is better for cholesterol than cow butter, agave has a lower glycemic index than cane sugar, corn flour has fewer calories and is more nutritious than white flour (and about as healthy as whole-wheat flour), etc. 
+I also think that each ingredient is either better or just as good for your health than its European baking counterpart. For example, avocado oil doesn't raise LDL cholesterol as much as cow butter, agave has a lower glycemic index than cane sugar, corn flour has fewer calories than wheat flour, etc.
 
 **Makes**: A little more than 12 cookies
 
