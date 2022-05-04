@@ -121,24 +121,3 @@ I also think that each ingredient is either better or just as good for your heal
 
 ---
 
-### Estus
-
-Fight off the darkness with this liquid sunshine! Drink moderately and responsibly :) 
-
-**Makes**: Estus for two
-
-**Ingredients**:
-* 15 mL (0.5 oz) lime or lemon juice
-* 90 mL (3.0 oz) tangerine juice or Sunny-D
-* 45 mL (1.5 oz) triple sec
-* 75 mL (2.5 oz) rum, at least 90 proof
-* Cinnamon to taste
-
-**Directions**:
-1. Over ice, combine and shake all ingredients except for 10 ml (0.25 oz) of rum.
-2. Add the 10 mL (0.25 oz) unmixed rum into a serving glass.
-3. Light the rum on fire.
-4. Shake cinnamon into the fire, producing a great flame.
-5. Extinguish the flame by pouring the mixture into the serving glass.
-
-
