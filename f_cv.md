@@ -57,7 +57,7 @@ permalink: /CV/
 
         <tr>
             <td>2022 <br> (Submitted)</td>
-            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2022). Kinship moderates energy use in human polities. Submitted to <i>Proceedings on the National Academy of Sciences (PNAS)</i>.</td>
+            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2022). Kinship moderates energy use in human polities. Submitted to <i>Nature: Human Behavior</i>.</td>
         </tr>
     
 
