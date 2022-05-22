@@ -22,19 +22,19 @@ permalink: /CV/
 
         <tr>
             <td>2022-2027 <br> (expected)</td>
-            <td><strong>PhD in Computer Science</strong><br><a href="https://en.wikipedia.org/wiki/Uppsala\%5FUniversity"><strong>Uppsala University</strong></a>, <i>Sweden, European Union</i><br>Graduation expected May 2027</td>
+            <td><strong>PhD in Computer Science</strong><br><a href="https://en.wikipedia.org/wiki/Uppsala%5FUniversity"><strong>Uppsala University</strong></a>, <i>Sweden, European Union</i><br>Graduation expected May 2027</td>
         </tr>
     
 
         <tr>
             <td>2020-2022</td>
-            <td><strong>Master of Science in Industrial Engineering</strong><br><a href="https://en.wikipedia.org/wiki/University\%5Fof\%5FCentral\%5FFlorida"><strong>University of Central Florida </strong></a> (UCF), <i>Orlando, Florida, USA</i><br>Honorary <a href="https://web.archive.org/web/20220513211358/https://www.cecs.ucf.edu/college-awards-2000th-doctoral-and-10000th-masters-degrees-to-honorary-recipients/"><strong>10,000th master's degree</strong></a> conferred by the college<br><a href="https://stars.library.ucf.edu/etd2020/1054"><strong>Thesis</strong></a>: <i>Humans in algorithms, algorithms in humans: Understanding cooperation and creating social AI with causal generative models</i></td>
+            <td><strong>Master of Science in Industrial Engineering</strong><br><a href="https://en.wikipedia.org/wiki/University%5Fof%5FCentral%5FFlorida"><strong>University of Central Florida </strong></a> (UCF), <i>Orlando, Florida, USA</i><br>Honorary <a href="https://web.archive.org/web/20220513211358/https://www.cecs.ucf.edu/college-awards-2000th-doctoral-and-10000th-masters-degrees-to-honorary-recipients/"><strong>10,000th master's degree</strong></a> conferred by the college<br><a href="https://stars.library.ucf.edu/etd2020/1054"><strong>Thesis</strong></a>: <i>Humans in algorithms, algorithms in humans: Understanding cooperation and creating social AI with causal generative models</i></td>
         </tr>
     
 
         <tr>
             <td>2016-2020</td>
-            <td><strong>Bachelor of Science with University Honors, double-major in Computational Mathematics and Computer Science, minor in Anthropology, <i>Cum Laude</i></strong><br><a href="https://en.wikipedia.org/wiki/Utah\%5FState\%5FUniversity"><strong>Utah State University </strong></a> (USU) , <i>Logan, Utah, USA</i><br><a href="https://doi.org/10.1371/journal.pone.0232609"><strong>Honors thesis</strong></a>: <i>Computationally revealing recurrent social formations and their evolutionary trajectories</i></td>
+            <td><strong>Bachelor of Science with University Honors, double-major in Computational Mathematics and Computer Science, minor in Anthropology, <i>Cum Laude</i></strong><br><a href="https://en.wikipedia.org/wiki/Utah%5FState%5FUniversity"><strong>Utah State University </strong></a> (USU) , <i>Logan, Utah, USA</i><br><a href="https://doi.org/10.1371/journal.pone.0232609"><strong>Honors thesis</strong></a>: <i>Computationally revealing recurrent social formations and their evolutionary trajectories</i></td>
         </tr>
     
         <tr class="cvsubheaderrow">
@@ -87,7 +87,7 @@ permalink: /CV/
 
         <tr>
             <td>2021 <br> Awarded <i>Best Human-Autonomy Teaming Paper</i></td>
-            <td><strong>Miranda, L.</strong> & Garibay O.O. (2021). Multi-agent Naïve Utility Calculus: Intent Recognition in the Stag-Hunt Game. Social, Cultural, and Behavioral Modeling. SBP-BRiMS 2021. Lecture Notes in Computer Science, vol 12720. <a href="https://doi.org/10.1007/978-3-030-80387-2\%5F32"><strong>10.1007/978-3-030-80387 232 </strong></a></td>
+            <td><strong>Miranda, L.</strong> & Garibay O.O. (2021). Multi-agent Naïve Utility Calculus: Intent Recognition in the Stag-Hunt Game. Social, Cultural, and Behavioral Modeling. SBP-BRiMS 2021. Lecture Notes in Computer Science, vol 12720. <a href="https://doi.org/10.1007/978-3-030-80387-2%5F32"><strong>10.1007/978-3-030-80387 232 </strong></a></td>
         </tr>
     
 
@@ -141,7 +141,7 @@ permalink: /CV/
 
         <tr>
             <td>Summer 2018</td>
-            <td><strong>NASA Space Grant Consortium Fellow.</strong> Awarded a 1,600 USD <a href="http://www.utahspacegrant.com/about/"><strong>NASA space grant fellowship</strong></a> to continue work on a CubeSat mission as the software team leader for the USU Get Away Special Microgravity Research team. Managed a team of ten other programmers. Wrote software for a prototype platform that successfully served over a dozen high-altitude balloon flights. The project (<a href="https://web.archive.org/web/20220521175042/https://www.usu.edu/physics/gas/projects/gaspacs"><strong>GASPACS</strong></a>) was successfully launched to the International Space Station as part of the <a href="https://en.wikipedia.org/wiki/SpaceX\%5FCRS-24"><strong>SpaceX CRS-24</strong></a> mission and deployed into low Earth orbit on 26 January 2022.</td>
+            <td><strong>NASA Space Grant Consortium Fellow.</strong> Awarded a 1,600 USD <a href="http://www.utahspacegrant.com/about/"><strong>NASA space grant fellowship</strong></a> to continue work on a CubeSat mission as the software team leader for the USU Get Away Special Microgravity Research team. Managed a team of ten other programmers. Wrote software for a prototype platform that successfully served over a dozen high-altitude balloon flights. The project (<a href="https://web.archive.org/web/20220521175042/https://www.usu.edu/physics/gas/projects/gaspacs"><strong>GASPACS</strong></a>) was successfully launched to the International Space Station as part of the <a href="https://en.wikipedia.org/wiki/SpaceX%5FCRS-24"><strong>SpaceX CRS-24</strong></a> mission and deployed into low Earth orbit on 26 January 2022.</td>
         </tr>
     
 
@@ -219,13 +219,13 @@ permalink: /CV/
 
         <tr>
             <td>April 2022</td>
-            <td><strong>Best 2021 Paper</strong> within the Human-Centered Artificial Intelligence Research Laboratory. Awarded by the lab director for my <a href="https://doi.org/10.1007/978-3-030-80387-2\%5F32"><strong>publication in SBP-BRiMS 2021</strong></a>.</td>
+            <td><strong>Best 2021 Paper</strong> within the Human-Centered Artificial Intelligence Research Laboratory. Awarded by the lab director for my <a href="https://doi.org/10.1007/978-3-030-80387-2%5F32"><strong>publication in SBP-BRiMS 2021</strong></a>.</td>
         </tr>
     
 
         <tr>
             <td>July 2021</td>
-            <td><strong>Best Human-Autonomy Teaming Paper</strong>. Awarded by the <i>Social, Cultural, and Behavioral Modeling (SBP-BRiMS) 2021</i> conference for my <a href="https://doi.org/10i1007/978-3-030-80387-2\%5F32"><strong>submission</strong></a>.</td>
+            <td><strong>Best Human-Autonomy Teaming Paper</strong>. Awarded by the <i>Social, Cultural, and Behavioral Modeling (SBP-BRiMS) 2021</i> conference for my <a href="https://doi.org/10i1007/978-3-030-80387-2%5F32"><strong>submission</strong></a>.</td>
         </tr>
     
 
