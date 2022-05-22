@@ -4,6 +4,42 @@ title: Recipes
 permalink: /recipes/
 ---
 
+### Secret Shea Chocolate Chip Cookies
+
+Equal parts witchcraft, scientific research, and trial and error have gone into perfecting this recipe. Only the brave will dare to attempt summoning these perfectly soft, chewy, plant-based cookies; Few are they who shall know their supernatural, cholesterol-friendly yet unsacrificing deliciousness.
+
+**Makes**: A little more than 12 cookies
+
+**Ingredients**:
+
+* 40 g **unrefined shea butter**. Be careful sourcing your shea butter; only unrefined (grade A) is edible. For readers in the USA, I recommend [FairTale Ghana](https://fairtaleghana.org).
+* 85 g (0.5 cup) brown sugar or maple syrup
+* 43 g (0.25 cup) cane sugar or agave syrup
+* 15 mL (1 Tbsp) ground flax or chia seed
+* 30 mL (2 Tbsp) water
+* 10 mL (2 tsp) vanilla extract
+* 180 g (1.5 cups) whole-wheat flour 
+* 2.5 mL (0.5 tsp) baking soda
+* 2 mL (0.25 tsp) salt
+* 175 g (1 cup) vegan chocolate chunks
+
+**Directions**:
+1. Combine water and flax seed well. Then, store in a freezer or fridge. This makes a flax egg! Combining can be accomplished through whisking with a fork in a bowl or, my preferred method, shaking together in a glass jar. 
+2. Preheat oven to 180°C (350°F)
+3. Melt the shea butter using your preferred method, and add it to a large cooking bowl. 
+4. Add in the brown and cane sugar. Whisk until homogeneous. 
+5. Remove the flax egg from its cold place
+6. Add vanilla and flax egg to the mixture. (Optionally: Beat with an electric mixer for a bit to achieve cookies with a slightly fluffier texture). 
+7. In a separate bowl (or, very carefully, in a new layer in the same bowl), sift together the flour, baking soda, and salt.
+8. Combine all dry and wet ingredients until homogeneous. 
+9. Fold in the chocolate chips.
+10. Form into cookie shapes and place onto a baking sheet lined with compostable parchment paper.
+11. Bake for 10 minutes. They won't seem done right when they come out, but trust me; It's easy to overcook this recipe! The cookies will firm up once they're allowed to cool, leaving you with a nice fluffy but chewy texture.
+12. Don't eat too many! Or too few! Eat just the right amount :) 
+
+---
+
+
 ### "Plausibly Meat" Seitan
 
 Delicious seitan with an excellent texture.
@@ -43,42 +79,6 @@ When breaded with panko and served with golden curry sauce and broccoli over ric
 ### Undergrad Pad Thai
 
 Put peanut butter in your instant ramen. It's life-changing.
-
----
-
-
-### Secret Shea Chocolate Chip Cookies
-
-Equal parts witchcraft, scientific research, and trial and error have gone into perfecting this recipe. Only the brave will dare to attempt summoning these perfectly soft, chewy, plant-based cookies; Few are they who shall know their supernatural, cholesterol-friendly yet unsacrificing deliciousness.
-
-**Makes**: A little more than 12 cookies
-
-**Ingredients**:
-
-* 40 g **unrefined shea butter**. Be careful sourcing your shea butter; only unrefined (grade A) is edible. For readers in the USA, I recommend [FairTale Ghana](https://fairtaleghana.org).
-* 85 g (0.5 cup) brown sugar or maple syrup
-* 43 g (0.25 cup) cane sugar or agave syrup
-* 15 mL (1 Tbsp) ground flax or chia seed
-* 30 mL (2 Tbsp) water
-* 10 mL (2 tsp) vanilla extract
-* 180 g (1.5 cups) whole-wheat flour 
-* 2.5 mL (0.5 tsp) baking soda
-* 2 mL (0.25 tsp) salt
-* 175 g (1 cup) vegan chocolate chunks
-
-**Directions**:
-1. Combine water and flax seed well. Then, store in a freezer or fridge. This makes a flax egg! Combining can be accomplished through whisking with a fork in a bowl or, my preferred method, shaking together in a glass jar. 
-2. Preheat oven to 180°C (350°F)
-3. Melt the shea butter using your preferred method, and add it to a large cooking bowl. 
-4. Add in the brown and cane sugar. Whisk until homogeneous. 
-5. Remove the flax egg from its cold place
-6. Add vanilla and flax egg to the mixture. (Optionally: Beat with an electric mixer for a bit to achieve cookies with a slightly fluffier texture). 
-7. In a separate bowl (or, very carefully, in a new layer in the same bowl), sift together the flour, baking soda, and salt.
-8. Combine all dry and wet ingredients until homogeneous. 
-9. Fold in the chocolate chips.
-10. Form into cookie shapes and place onto a baking sheet lined with compostable parchment paper.
-11. Bake for 10 minutes. They won't seem done right when they come out, but trust me; It's easy to overcook this recipe! The cookies will firm up once they're allowed to cool, leaving you with a nice fluffy but chewy texture.
-12. Don't eat too many! Or too few! Eat just the right amount :) 
 
 ---
 
