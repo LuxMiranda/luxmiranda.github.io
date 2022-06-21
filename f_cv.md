@@ -22,19 +22,19 @@ permalink: /CV/
 
         <tr>
             <td>2022-2027 <br> (expected)</td>
-            <td><strong>PhD in Computer Science</strong><br><a href="https://en.wikipedia.org/wiki/Uppsala%5FUniversity"><strong>Uppsala University</strong></a>, <i>Sweden, European Union</i><br>Graduation expected May 2027</td>
+            <td><strong>PhD in Computer Science</strong> <br> <a href="https://en.wikipedia.org/wiki/Uppsala%5FUniversity"><strong>Uppsala University</strong></a>, <i>Sweden, European Union</i><br><ul><li>Graduation expected May 2027</li></ul></td>
         </tr>
     
 
         <tr>
             <td>2020-2022</td>
-            <td><strong>Master of Science in Industrial Engineering</strong><br><a href="https://en.wikipedia.org/wiki/University%5Fof%5FCentral%5FFlorida"><strong>University of Central Florida</strong></a> (UCF), <i>Orlando, Florida, USA</i><br>Honorary <a href="https://web.archive.org/web/20220513211358/https://www.cecs.ucf.edu/college-awards-2000th-doctoral-and-10000th-masters-degrees-to-honorary-recipients/"><strong>10,000th master's degree</strong></a> conferred by the college<br><a href="https://stars.library.ucf.edu/etd2020/1054"><strong>Thesis</strong></a>: <i>Humans in algorithms, algorithms in humans: Understanding cooperation and creating social AI with causal generative models</i></td>
+            <td><strong>Master of Science in Industrial Engineering</strong> <br> <a href="https://en.wikipedia.org/wiki/University%5Fof%5FCentral%5FFlorida"><strong>University of Central Florida</strong></a> (UCF), <i>Orlando, Florida, USA</i><br><ul><li>Honorary <a href="https://web.archive.org/web/20220513211358/https://www.cecs.ucf.edu/college-awards-2000th-doctoral-and-10000th-masters-degrees-to-honorary-recipients/"><strong>10,000th master's degree</strong></a> conferred by the college</li><br><li><a href="https://stars.library.ucf.edu/etd2020/1054"><strong>Thesis</strong></a>: <i>Humans in algorithms, algorithms in humans: Understanding cooperation and creating social AI with causal generative models</i></li></ul></td>
         </tr>
     
 
         <tr>
             <td>2016-2020</td>
-            <td><strong>Bachelor of Science with University Honors, double-major in Computational Mathematics and Computer Science, minor in Anthropology, <i>Cum Laude</i></strong><br><a href="https://en.wikipedia.org/wiki/Utah%5FState%5FUniversity"><strong>Utah State University </strong></a> (USU) , <i>Logan, Utah, USA</i><br><a href="https://doi.org/10.1371/journal.pone.0232609"><strong>Honors thesis</strong></a>: <i>Computationally revealing recurrent social formations and their evolutionary trajectories</i></td>
+            <td><strong>Bachelor of Science with University Honors, double-major in Computational Mathematics and Computer Science, minor in Anthropology, <i>Cum Laude_</strong>, _hey</i><br><ul><li><a href="https://en.wikipedia.org/wiki/Utah%5FState%5FUniversity"><strong>Utah State University </strong></a> (USU) , <i>Logan, Utah, USA</i></li><br><li><a href="https://doi.org/10.1371/journal.pone.0232609"><strong>Honors thesis</strong></a>: <i>Computationally revealing recurrent social formations and their evolutionary trajectories</i></li></ul></td>
         </tr>
     
         <tr class="cvsubheaderrow">
