@@ -22,13 +22,13 @@ permalink: /CV/
 
         <tr>
             <td>2022-2027 <br> (expected)</td>
-            <td><strong>PhD in Computer Science</strong> <br> <a href="https://en.wikipedia.org/wiki/Uppsala%5FUniversity"><strong>Uppsala University</strong></a>, <i>Sweden, European Union</i><br><ul><li>Graduation expected May 2027</li></ul></td>
+            <td><strong>PhD in Computer Science</strong><br><ul><li><a href="https://en.wikipedia.org/wiki/Uppsala%5FUniversity"><strong>Uppsala University</strong></a>, <i>Sweden, European Union</i></li><br><li>Graduation expected May 2027</li></ul></td>
         </tr>
     
 
         <tr>
             <td>2020-2022</td>
-            <td><strong>Master of Science in Industrial Engineering</strong> <br> <a href="https://en.wikipedia.org/wiki/University%5Fof%5FCentral%5FFlorida"><strong>University of Central Florida</strong></a> (UCF), <i>Orlando, Florida, USA</i><br><ul><li>Honorary <a href="https://web.archive.org/web/20220513211358/https://www.cecs.ucf.edu/college-awards-2000th-doctoral-and-10000th-masters-degrees-to-honorary-recipients/"><strong>10,000th master's degree</strong></a> conferred by the college</li><br><li><a href="https://stars.library.ucf.edu/etd2020/1054"><strong>Thesis</strong></a>: <i>Humans in algorithms, algorithms in humans: Understanding cooperation and creating social AI with causal generative models</i></li></ul></td>
+            <td><strong>Master of Science in Industrial Engineering</strong><br><ul><li><a href="https://en.wikipedia.org/wiki/University%5Fof%5FCentral%5FFlorida"><strong>University of Central Florida</strong></a> (UCF), <i>Orlando, Florida, USA</i></li><br><li>Honorary <a href="https://web.archive.org/web/20220513211358/https://www.cecs.ucf.edu/college-awards-2000th-doctoral-and-10000th-masters-degrees-to-honorary-recipients/"><strong>10,000th master's degree</strong></a> conferred by the college</li><br><li><a href="https://stars.library.ucf.edu/etd2020/1054"><strong>Thesis</strong></a>: <i>Humans in algorithms, algorithms in humans: Understanding cooperation and creating social AI with causal generative models</i></li></ul></td>
         </tr>
     
 
