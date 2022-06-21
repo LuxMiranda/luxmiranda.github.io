@@ -34,7 +34,7 @@ permalink: /CV/
 
         <tr>
             <td>2016-2020</td>
-            <td><strong>Bachelor of Science with University Honors, double-major in Computational Mathematics and Computer Science, minor in Anthropology, <i>Cum Laude_</strong>, _hey</i><br><ul><li><a href="https://en.wikipedia.org/wiki/Utah%5FState%5FUniversity"><strong>Utah State University </strong></a> (USU) , <i>Logan, Utah, USA</i></li><br><li><a href="https://doi.org/10.1371/journal.pone.0232609"><strong>Honors thesis</strong></a>: <i>Computationally revealing recurrent social formations and their evolutionary trajectories</i></li></ul></td>
+            <td><strong>Bachelor of Science with University Honors, double-major in Computational Mathematics and Computer Science, minor in Anthropology, <i>Cum Laude</i></strong><br><ul><li><a href="https://en.wikipedia.org/wiki/Utah%5FState%5FUniversity"><strong>Utah State University </strong></a> (USU) , <i>Logan, Utah, USA</i></li><br><li><a href="https://doi.org/10.1371/journal.pone.0232609"><strong>Honors thesis</strong></a>: <i>Computationally revealing recurrent social formations and their evolutionary trajectories</i></li></ul></td>
         </tr>
     
         <tr class="cvsubheaderrow">
@@ -63,7 +63,7 @@ permalink: /CV/
 
         <tr>
             <td>2022 <br> (Invited; In review)</td>
-            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2022). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. Invited and in review for a special edition of the <i>Journal of Artificial Societies and Social Simulation (JASSS)</i>.</td>
+            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2022). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. Invited and in review for a special track of the <i>Social Simulation Conference 2022</i>.</td>
         </tr>
     
 
@@ -117,7 +117,7 @@ permalink: /CV/
 
         <tr>
             <td>Summer 2022</td>
-            <td><strong>PIBBSS Summer Research Fellow</strong>. Awarded the 9,000 USD <a href="https://www.pibbss.ai/"><strong>Principles of Intelligent Behavior in Biological and Social Systems </strong></a> (PIBBSS) summer research fellowship to conduct research on human-aligned AI systems.</td>
+            <td><strong>PIBBSS Summer Research Fellow</strong>. Awarded the 9,000 USD <a href="https://www.pibbss.ai/"><strong>Principles of Intelligent Behavior in Biological and Social Systems </strong></a> (PIBBSS) summer research fellowship to conduct research on <a href="https://en.wikipedia.org/wiki/AI%5Falignment"><strong>human-aligned AI systems </strong></a>.</td>
         </tr>
     
 
@@ -129,7 +129,7 @@ permalink: /CV/
 
         <tr>
             <td>August 2019 - August 2020 <br> (1 year)</td>
-            <td><strong>Undergraduate Research Assistant.</strong> <i>Utah State University Anthropology Program.</i> As part of an international archaeological working group known as <a href="https://pastglobalchanges.org/science/wg/people-3000/intro"><strong>PEOPLE 3000 </strong></a>, I helped to create and manage a new <a href="https://www.nature.com/articles/s41597-022-01118-7"><strong>radiocarbon database </strong></a> larger and more complete than any other. I also worked to program and test an online social experiment studying cooperation in a common-pool resource management scenario.</td>
+            <td><strong>Undergraduate Research Assistant.</strong> <i>Utah State University Anthropology Program.</i> As part of an international archaeological working group known as <a href="https://pastglobalchanges.org/science/wg/people-3000/intro"><strong>PEOPLE 3000 </strong></a>, I helped to create and manage a new <a href="https://www.p3k14c.org/"><strong>radiocarbon database </strong></a> larger and more complete than any other. I also worked to program and test an online social experiment studying cooperation in a common-pool resource management scenario.</td>
         </tr>
     
 
