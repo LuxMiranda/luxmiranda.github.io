@@ -37,17 +37,6 @@ permalink: /CV/
             <td><strong>Bachelor of Science with University Honors, double-major in Computational Mathematics and Computer Science, minor in Anthropology, <i>Cum Laude</i></strong><br><ul><li><a href="https://en.wikipedia.org/wiki/Utah%5FState%5FUniversity"><strong>Utah State University </strong></a> (USU) , <i>Logan, Utah, USA</i></li><br><li><a href="https://doi.org/10.1371/journal.pone.0232609"><strong>Honors thesis</strong></a>: <i>Computationally revealing recurrent social formations and their evolutionary trajectories</i></li></ul></td>
         </tr>
     
-        <tr class="cvsubheaderrow">
-            <td class="cvsubheader"></td>
-            <td class="cvsubheader">Supplemental Courses</td>
-        </tr>
-    
-
-        <tr>
-            <td>January 2021</td>
-            <td><strong>Agent-Based Modeling of Social-Ecological Systems</strong>, <a href="https://web.archive.org/web/20210118141023/https://complexity.asu.edu/cbie/winterschool"><strong>CoMSES Net International Winter School</strong></a>, Arizona State University</td>
-        </tr>
-    
 
         <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
@@ -226,6 +215,18 @@ permalink: /CV/
         <tr>
             <td>July 2021</td>
             <td><strong>Best Human-Autonomy Teaming Paper</strong>. Awarded by the <i>Social, Cultural, and Behavioral Modeling (SBP-BRiMS) 2021</i> conference for my <a href="https://doi.org/10i1007/978-3-030-80387-2%5F32"><strong>submission</strong></a>.</td>
+        </tr>
+    
+
+        <tr class="cvheaderrow">
+            <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
+            <td class="cvheader">Supplemental Courses</td>
+        </tr>
+    
+
+        <tr>
+            <td>January 2021</td>
+            <td><strong>Agent-Based Modeling of Social-Ecological Systems</strong>, <a href="https://web.archive.org/web/20210118141023/https://complexity.asu.edu/cbie/winterschool"><strong>CoMSES Net International Winter School</strong></a>, Arizona State University</td>
         </tr>
     
 
