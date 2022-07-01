@@ -46,7 +46,7 @@ permalink: /CV/
 
         <tr>
             <td>2022 <br> (Submitted)</td>
-            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2022). Social infrastructure moderates the energy use of polities. Submitted to <i>Nature Human Behavior</i>.</td>
+            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2022). Social infrastructure moderates the energy use of polities. Submitted to <i>Human Ecology</i>.</td>
         </tr>
     
 
@@ -70,7 +70,7 @@ permalink: /CV/
 
         <tr>
             <td>2022</td>
-            <td>Bird, D., <strong>Miranda, L.</strong>, Vander Linden, M. et al. (2022). p3k14c, a synthetic global database of archaeological radiocarbon dates. <i>Scientific Data</i>. <a href="https://doi.org/10.1038/s41597-022-01118-7"><strong>10.1038/s41597-022-01118-7 </strong></a></td>
+            <td>Bird, D., <strong>Miranda, L.</strong>, Vander Linden, M. et al. (2022). p3k14c, a synthetic global database of archaeological radiocarbon dates. <i>Nature Scientific Data</i>. <a href="https://doi.org/10.1038/s41597-022-01118-7"><strong>10.1038/s41597-022-01118-7 </strong></a></td>
         </tr>
     
 
