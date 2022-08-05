@@ -93,8 +93,20 @@ permalink: /CV/
     
 
         <tr>
+            <td>07 April 2022</td>
+            <td>Humans in Algorithms, Algorithms in Humans: Understanding Cooperation and Creating Social AI with Causal Generative Models. <i>Thesis Defense</i>. University of Central Florida, Orlando, Florida, USA</td>
+        </tr>
+    
+
+        <tr>
+            <td>07 July 2021</td>
+            <td>Multi-agent Naïve Utility Calculus: Intent Recognition in the Stag-Hunt Game. <i>2021 International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation</i>. Virtual</td>
+        </tr>
+    
+
+        <tr>
             <td>10 June 2021</td>
-            <td>Evolutionary model discovery of behavioral factors driving decision-making in an irrigation experiment. <i>Inverse Generative Social Science (iGSS) Workshop 2021</i>. <a href="https://youtu.be/Z7zmaHVSHdc"><strong>https://youtu.be/Z7zmaHVSHdc</strong></a></td>
+            <td>Evolutionary model discovery of behavioral factors driving decision-making in an irrigation experiment. <i>Inverse Generative Social Science (iGSS) Workshop 2021</i>. Virtual <a href="https://youtu.be/Z7zmaHVSHdc"><strong>https://youtu.be/Z7zmaHVSHdc</strong></a></td>
         </tr>
     
 
