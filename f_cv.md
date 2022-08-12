@@ -51,14 +51,14 @@ permalink: /CV/
     
 
         <tr>
-            <td>2022 <br> (Invited; In review)</td>
-            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2022). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. Invited and in review for a special track of the <i>Social Simulation Conference 2022</i>.</td>
+            <td>2022 <br> (Invited; In press)</td>
+            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2022). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. Invited and in press for a special track of the <i>Social Simulation Conference 2022</i>.</td>
         </tr>
     
 
         <tr>
-            <td>2022 <br> (Invited; In review)</td>
-            <td><strong>Miranda, L.</strong> & Garibay O.O. (2022). Approaching (Super)Human Intent Recognition in Stag Hunt with the Naïve Utility Calculus Generative Model. Invited and in review for a special issue of <i>Computational and Mathematical Organization Theory</i>.</td>
+            <td>2022 <br> (Invited; In press)</td>
+            <td><strong>Miranda, L.</strong> & Garibay O.O. (2022). Approaching (Super)Human Intent Recognition in Stag Hunt with the Naïve Utility Calculus Generative Model. Invited and in press for a special issue of <i>Computational and Mathematical Organization Theory</i>.</td>
         </tr>
     
 
