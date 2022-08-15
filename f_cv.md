@@ -142,7 +142,7 @@ permalink: /CV/
 
         <tr>
             <td>Summer 2018</td>
-            <td><strong>NASA Space Grant Consortium Fellow.</strong> Awarded a 1,600 USD <a href="http://www.utahspacegrant.com/about/"><strong>NASA space grant fellowship</strong></a> to continue work on a CubeSat mission as the software team leader for the USU Get Away Special Microgravity Research team. Managed a team of ten other programmers. Wrote software for a prototype platform that successfully served over a dozen high-altitude balloon flights. The project (<a href="https://en.wikipedia.org/wiki/GASPACS"><strong>GASPACS</strong></a>) was successfully launched to the International Space Station as part of the <a href="https://en.wikipedia.org/wiki/SpaceX%5FCRS-24"><strong>SpaceX CRS-24</strong></a> mission and deployed into low Earth orbit on 26 January 2022.</td>
+            <td><strong>NASA Space Grant Consortium Fellow.</strong> Awarded a 1,600 USD <a href="http://www.utahspacegrant.com/about/"><strong>NASA space grant fellowship</strong></a> to continue work on a CubeSat mission as the software team leader for the USU Get Away Special Microgravity Research team. Managed a team of ten other programmers. Wrote software for a prototype platform that successfully served over a dozen high-altitude balloon flights. The project (<a href="https://en.wikipedia.org/wiki/GASPACS"><strong>GASPACS</strong></a>) was the world's first CubeSat developed entirely by undergraduate students. It successfully served its mission after being launched to the International Space Station as part of the <a href="https://en.wikipedia.org/wiki/SpaceX%5FCRS-24"><strong>SpaceX CRS-24</strong></a> mission and deployed into low Earth orbit on 26 January 2022.</td>
         </tr>
     
 
@@ -190,7 +190,7 @@ permalink: /CV/
 
         <tr>
             <td>November 2021 - <br> August 2022 <br> (8 months)</td>
-            <td><strong>PAGES Data Stewardship Scholarship.</strong> Received a 4,400 USD <a href="https://web.archive.org/web/20220521175755/https://pastglobalchanges.org/science/wg/people-3000/data"><strong>scholarship from PAGES</strong></a> (Past Global Changes) to continue stewardship work on the p3k14c archaeological radiocarbon database as part of the PEOPLE 3,000 working group.</td>
+            <td><strong>PAGES Data Stewardship Scholarship.</strong> Received a 4,400 USD <a href="https://web.archive.org/web/20220521175755/https://pastglobalchanges.org/science/wg/people-3000/data"><strong>scholarship from PAGES</strong></a> (Past Global Changes) to continue stewardship work on the <a href="https://www.p3k14c.org/"><strong>p3k14c archaeological radiocarbon database</strong></a> as part of the PEOPLE 3,000 working group.</td>
         </tr>
     
 
