@@ -5,8 +5,8 @@ permalink: /contact/
 ---
 
 <strong>Lux Miranda</strong><br />
-<strong>(they / she)</strong><br />
-Graduate Assistant<br />
-Complex Adaptive Systems Laboratory<br />
-University of Central Florida<br />
-Email: <strong>contact (at) luxmiranda (dot) com</strong>
+<strong>(she / they)</strong><br />
+Uppsala Social Robotics Lab<br />
+Uppsala University<br />
+Sweden, European Union<br />
+Email: <strong>lux.miranda (at) it.uu.se</strong>

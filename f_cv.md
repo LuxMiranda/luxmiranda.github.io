@@ -57,8 +57,8 @@ permalink: /CV/
     
 
         <tr>
-            <td>2022 <br> (Invited; In press)</td>
-            <td><strong>Miranda, L.</strong> & Garibay O.O. (2022). Approaching (Super)Human Intent Recognition in Stag Hunt with the Naïve Utility Calculus Generative Model. Invited and in press for a special issue of <i>Computational and Mathematical Organization Theory</i>.</td>
+            <td>2022 <br> <i>Invited manuscript</i></td>
+            <td><strong>Miranda, L.</strong> & Garibay O.O. (2022). Approaching (super)human intent recognition in stag hunt with the Naïve Utility Calculus generative model. <i>Computational and Mathematical Organization Theory</i>. <a href="https://doi.org/10.1007/s10588-022-09367-y"><strong>https://doi.org/10.1007/s10588-022-09367-y </strong></a></td>
         </tr>
     
 
