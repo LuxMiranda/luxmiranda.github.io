@@ -46,13 +46,13 @@ permalink: /CV/
 
         <tr>
             <td>2022 <br> (Submitted)</td>
-            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2022). Social infrastructure moderates the energy use of polities. Submitted to <i>Human Ecology</i>.</td>
+            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2022). Social infrastructure moderates the energy use of polities. Submitted to <i>Cross-Cultural Research</i>.</td>
         </tr>
     
 
         <tr>
             <td>2022 <br> (Invited; In press)</td>
-            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2022). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. Invited and in press for a special track of the <i>Social Simulation Conference 2022</i>.</td>
+            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2022). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. Invited and in press for a special issue of the <i>Journal of Artificial Societies and Social Sciences</i>.</td>
         </tr>
     
 
@@ -89,6 +89,12 @@ permalink: /CV/
         <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Presentations</td>
+        </tr>
+    
+
+        <tr>
+            <td>15 September 2022</td>
+            <td>Stochasity can not be ignored: Results from the evolutionary model discovery of behavioral factors driving decision-making in an irrigation experiment. <i>Social Simulation Conference 2022</i>. Milan, Italy / Virtual.</td>
         </tr>
     
 
