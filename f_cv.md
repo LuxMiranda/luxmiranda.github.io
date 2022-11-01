@@ -22,7 +22,7 @@ permalink: /CV/
 
         <tr>
             <td>2022-2027 <br> (expected)</td>
-            <td><strong>PhD in Computer Science</strong><br><ul><li><a href="https://en.wikipedia.org/wiki/Uppsala%5FUniversity"><strong>Uppsala University</strong></a>, <i>Sweden, European Union</i></li><br><li>Graduation expected May 2027</li></ul></td>
+            <td><strong>PhD in Computer Science</strong><br><ul><li><a href="https://en.wikipedia.org/wiki/Uppsala%5FUniversity"><strong>Uppsala University</strong></a>, <i>Sweden, European Union</i></li><br><li>Defense expected May 2027</li></ul></td>
         </tr>
     
 
@@ -45,8 +45,8 @@ permalink: /CV/
     
 
         <tr>
-            <td>2022 <br> (Submitted)</td>
-            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2022). Social infrastructure moderates the energy use of polities. Submitted to <i>Cross-Cultural Research</i>.</td>
+            <td>2022 <br> (Accepted)</td>
+            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2022). Social infrastructure moderates the energy use of polities. Accepted / in revision, <i>Cross-Cultural Research</i>.</td>
         </tr>
     
 
