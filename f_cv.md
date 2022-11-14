@@ -46,7 +46,7 @@ permalink: /CV/
 
         <tr>
             <td>2022 <br> (Accepted)</td>
-            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2022). Social infrastructure moderates the energy use of polities. Accepted / in revision, <i>Cross-Cultural Research</i>.</td>
+            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2022). Infrastructure and the energy use of human polities. Accepted / in revision, <i>Cross-Cultural Research</i>.</td>
         </tr>
     
 
@@ -119,6 +119,12 @@ permalink: /CV/
         <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Research Experience</td>
+        </tr>
+    
+
+        <tr>
+            <td>August 2022 - <br> Present</td>
+            <td><strong>Doctoral student</strong>, <i><a href="https://usr-lab.github.io"><strong>Uppsala Social Robotics Lab </strong></a></i>. Studying the ethics and diversification of robot and user identity, expansive mind/body spaces, and their relation to AI alignment.</td>
         </tr>
     
 
