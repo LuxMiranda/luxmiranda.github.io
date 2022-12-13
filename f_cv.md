@@ -51,8 +51,8 @@ permalink: /CV/
     
 
         <tr>
-            <td>2022 <br> (Invited; In press)</td>
-            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2022). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. Invited and in press for a special issue of the <i>Journal of Artificial Societies and Social Sciences</i>.</td>
+            <td>2022 <br> (Invited; In review)</td>
+            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2022). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. Invited and in review for a special issue of the <i>Journal of Artificial Societies and Social Sciences</i>.</td>
         </tr>
     
 
@@ -93,8 +93,14 @@ permalink: /CV/
     
 
         <tr>
+            <td>06 December 2022</td>
+            <td>Interactive exhibit: What does it mean to ascribe identity to robots? <i>HRI Winterschool on Embodied AI 2022</i>, Ghent University, Belgium</td>
+        </tr>
+    
+
+        <tr>
             <td>15 September 2022</td>
-            <td>Stochasity can not be ignored: Results from the evolutionary model discovery of behavioral factors driving decision-making in an irrigation experiment. <i>Social Simulation Conference 2022</i>. Milan, Italy / Virtual.</td>
+            <td>Stochasity can not be ignored: Results from the evolutionary model discovery of behavioral factors driving decision-making in an irrigation experiment. <i>Social Simulation Conference 2022</i>. Milan, Italy / Virtual</td>
         </tr>
     
 
@@ -161,6 +167,12 @@ permalink: /CV/
         <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Teaching Experience</td>
+        </tr>
+    
+
+        <tr>
+            <td>August 2022 - <br> Present</td>
+            <td><strong>Teaching Assistant.</strong> <i>Uppsala University.</i> Serving as a TA for courses in intelligent interactive systems and social robotics.</td>
         </tr>
     
 
@@ -244,13 +256,19 @@ permalink: /CV/
 
         <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
-            <td class="cvheader">Supplemental Courses</td>
+            <td class="cvheader">Winter Schools</td>
+        </tr>
+    
+
+        <tr>
+            <td>December 2022</td>
+            <td><strong><a href="https://web.archive.org/web/20221213114341/https://hriwinterschool.com/"><strong>HRI Winterschool on Embodied AI</strong></a></strong>, Ghent University, Belgium</td>
         </tr>
     
 
         <tr>
             <td>January 2021</td>
-            <td><strong>Agent-Based Modeling of Social-Ecological Systems</strong>, <a href="https://web.archive.org/web/20210118141023/https://complexity.asu.edu/cbie/winterschool"><strong>CoMSES Net International Winter School</strong></a>, Arizona State University</td>
+            <td><strong><a href="https://web.archive.org/web/20210118141023/https://complexity.asu.edu/cbie/winterschool"><strong>Agent-Based Modeling of Social-Ecological Systems</strong></a></strong>, Arizona State University, USA</td>
         </tr>
     
 
