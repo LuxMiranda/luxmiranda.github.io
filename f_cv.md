@@ -45,14 +45,14 @@ permalink: /CV/
     
 
         <tr>
-            <td>2022 <br> (Accepted)</td>
-            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2022). Infrastructure and the energy use of human polities. Accepted / in revision, <i>Cross-Cultural Research</i>.</td>
+            <td>2023 <br> (Invited; In review)</td>
+            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2023). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. Invited and in review for a special issue of the <i>Journal of Artificial Societies and Social Sciences</i>.</td>
         </tr>
     
 
         <tr>
-            <td>2022 <br> (Invited; In review)</td>
-            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2022). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. Invited and in review for a special issue of the <i>Journal of Artificial Societies and Social Sciences</i>.</td>
+            <td>2023</td>
+            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2023). Infrastructure and the energy use of human polities. <i>Cross-Cultural Research</i>. <a href="https://doi.org/10.1177/10693971221149779"><strong>https://doi.org/10.1177/10693971221149779 </strong></a></td>
         </tr>
     
 
