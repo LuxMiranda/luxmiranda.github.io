@@ -136,7 +136,7 @@ permalink: /CV/
 
         <tr>
             <td>Summer 2022</td>
-            <td><strong>PIBBSS Summer Research Fellow</strong>. Awarded the 9,000 USD <a href="https://www.pibbss.ai/"><strong>Principles of Intelligent Behavior in Biological and Social Systems </strong></a> (PIBBSS) summer research fellowship to conduct research on <a href="https://en.wikipedia.org/wiki/AI%5Falignment"><strong>human-aligned AI systems </strong></a>.</td>
+            <td><strong>PIBBSS Summer Research Fellow</strong>. Awarded the $9,000 USD <a href="https://www.pibbss.ai/"><strong>Principles of Intelligent Behavior in Biological and Social Systems </strong></a> (PIBBSS) summer research fellowship to conduct research on <a href="https://en.wikipedia.org/wiki/AI%5Falignment"><strong>human-aligned AI systems </strong></a>.</td>
         </tr>
     
 
@@ -154,13 +154,13 @@ permalink: /CV/
 
         <tr>
             <td>Summer 2019</td>
-            <td><strong>Peak Summer Research Fellow.</strong> <i>Utah State University.</i> One of ten recipients awarded the 4,000 USD <a href="https://web.archive.org/web/20220521174643/https://research.usu.edu/peakfellows/index"><strong>Peak Summer Research Fellowship </strong></a> for highly-engaged undergraduate researchers to conduct work on a proposed project over the summer. The research conducted under this fellowship produced my first publication, listed above.</td>
+            <td><strong>Peak Summer Research Fellow.</strong> <i>Utah State University.</i> One of ten recipients awarded the $4,000 USD <a href="https://web.archive.org/web/20220521174643/https://research.usu.edu/peakfellows/index"><strong>Peak Summer Research Fellowship </strong></a> for highly-engaged undergraduate researchers to conduct work on a proposed project over the summer. The research conducted under this fellowship produced my first publication, listed above.</td>
         </tr>
     
 
         <tr>
             <td>Summer 2018</td>
-            <td><strong>NASA Space Grant Consortium Fellow.</strong> Awarded a 1,600 USD <a href="http://www.utahspacegrant.com/about/"><strong>NASA space grant fellowship</strong></a> to continue work on a CubeSat mission as the software team leader for the USU Get Away Special Microgravity Research team. Managed a team of ten other programmers. Wrote software for a prototype platform that successfully served over a dozen high-altitude balloon flights. The project (<a href="https://en.wikipedia.org/wiki/GASPACS"><strong>GASPACS</strong></a>) was the world's first CubeSat developed entirely by undergraduate students. It successfully served its mission after being launched to the International Space Station as part of the <a href="https://en.wikipedia.org/wiki/SpaceX%5FCRS-24"><strong>SpaceX CRS-24</strong></a> mission and deployed into low Earth orbit on 26 January 2022.</td>
+            <td><strong>NASA Space Grant Consortium Fellow.</strong> Awarded a $1,600 USD <a href="http://www.utahspacegrant.com/about/"><strong>NASA space grant fellowship</strong></a> to continue work on a CubeSat mission as the software team leader for the USU Get Away Special Microgravity Research team. Managed a team of ten other programmers. Wrote software for a prototype platform that successfully served over a dozen high-altitude balloon flights. The project (<a href="https://en.wikipedia.org/wiki/GASPACS"><strong>GASPACS</strong></a>) was the world's first CubeSat developed entirely by undergraduate students. It successfully served its mission after being launched to the International Space Station as part of the <a href="https://en.wikipedia.org/wiki/SpaceX%5FCRS-24"><strong>SpaceX CRS-24</strong></a> mission and deployed into low Earth orbit on 26 January 2022.</td>
         </tr>
     
 
@@ -214,19 +214,19 @@ permalink: /CV/
 
         <tr>
             <td>November 2021 - <br> August 2022 <br> (8 months)</td>
-            <td><strong>PAGES Data Stewardship Scholarship.</strong> Received a 4,400 USD <a href="https://web.archive.org/web/20220521175755/https://pastglobalchanges.org/science/wg/people-3000/data"><strong>scholarship from PAGES</strong></a> (Past Global Changes) to continue stewardship work on the <a href="https://www.p3k14c.org/"><strong>p3k14c archaeological radiocarbon database</strong></a> as part of the PEOPLE 3,000 working group.</td>
+            <td><strong>PAGES Data Stewardship Scholarship.</strong> Received a $4,400 USD <a href="https://web.archive.org/web/20220521175755/https://pastglobalchanges.org/science/wg/people-3000/data"><strong>scholarship from PAGES</strong></a> (Past Global Changes) to continue stewardship work on the <a href="https://www.p3k14c.org/"><strong>p3k14c archaeological radiocarbon database</strong></a> as part of the PEOPLE 3,000 working group.</td>
         </tr>
     
 
         <tr>
             <td>Summer 2018</td>
-            <td><strong>Honors Study Abroad Scholarship.</strong> Received a 1,000 USD <a href="https://web.archive.org/web/20220521180015/https://www.usu.edu/honors/scholarships/honors-research-fund"><strong>scholarship from the USU Honors Program</strong></a> used towards a semester studying historical European art and theatre in Italy, Switzerland, France, and the UK.</td>
+            <td><strong>Honors Study Abroad Scholarship.</strong> Received a $1,000 USD <a href="https://web.archive.org/web/20220521180015/https://www.usu.edu/honors/scholarships/honors-research-fund"><strong>scholarship from the USU Honors Program</strong></a> used towards a semester studying historical European art and theatre in Italy, Switzerland, France, and the UK.</td>
         </tr>
     
 
         <tr>
             <td>2016-2020 <br> (4 years)</td>
-            <td><strong>Daniels Scholarship.</strong> Received the full-ride <a href="https://www.danielsfund.org/scholarships/daniels-scholarship-program/overview"><strong>Daniels Scholarship </strong></a> (final award amount: 58,100 USD) to attend any four-year Bachelor's program in the USA for demonstrating exceptional leadership ability, strength of character, and commitment to community betterment. To maintain the scholarship, I was required to strictly keep the Daniels Scholar Code of Conduct which entailed working a paid position for at least ten hours per week during the semester, following all local laws, being involved in community betterment, and maintaining good academic standing.</td>
+            <td><strong>Daniels Scholarship.</strong> Received the full-ride <a href="https://www.danielsfund.org/scholarships/daniels-scholarship-program/overview"><strong>Daniels Scholarship </strong></a> (final award amount: $58,100 USD) to attend any four-year Bachelor's program in the USA for demonstrating exceptional leadership ability, strength of character, and commitment to community betterment. To maintain the scholarship, I was required to strictly keep the Daniels Scholar Code of Conduct which entailed working a paid position for at least ten hours per week during the semester, following all local laws, being involved in community betterment, and maintaining good academic standing.</td>
         </tr>
     
 
@@ -292,7 +292,7 @@ permalink: /CV/
 
         <tr>
             <td>Languages</td>
-            <td>English (native; CEFR level C2), Swedish (conversational; CEFR level B1)</td>
+            <td>English (native; C2), Swedish (conversational; B2)</td>
         </tr>
     
 
