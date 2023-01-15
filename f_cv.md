@@ -51,6 +51,12 @@ permalink: /CV/
     
 
         <tr>
+            <td>2023 <br> (In press)</td>
+            <td><strong>Miranda, L.</strong>, Castellano, G., & Winkle, K. (2023). Examining the State of Robot Identity. <i>Proceedings of the 18th Annual ACM/IEE International Conference on Human-Robot Interaction (HRI '23)</i>. <a href="https://doi.org/10.1145/3568294.3580168"><strong>https://doi.org/10.1145/3568294.3580168 </strong></a></td>
+        </tr>
+    
+
+        <tr>
             <td>2023</td>
             <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2023). Infrastructure and the energy use of human polities. <i>Cross-Cultural Research</i>. <a href="https://doi.org/10.1177/10693971221149779"><strong>https://doi.org/10.1177/10693971221149779 </strong></a></td>
         </tr>
@@ -76,7 +82,7 @@ permalink: /CV/
 
         <tr>
             <td>2021 <br> Awarded <i>Best Human-Autonomy Teaming Paper</i></td>
-            <td><strong>Miranda, L.</strong> & Garibay O.O. (2021). Multi-agent Naïve Utility Calculus: Intent Recognition in the Stag-Hunt Game. Social, Cultural, and Behavioral Modeling. SBP-BRiMS 2021. Lecture Notes in Computer Science, vol 12720. <a href="https://doi.org/10.1007/978-3-030-80387-2%5F32"><strong>10.1007/978-3-030-80387 232 </strong></a></td>
+            <td><strong>Miranda, L.</strong> & Garibay O.O. (2021). Multi-agent Naïve Utility Calculus: Intent Recognition in the Stag-Hunt Game. <i>Social, Cultural, and Behavioral Modeling. SBP-BRiMS 2021.</i> Lecture Notes in Computer Science, vol 12720. <a href="https://doi.org/10.1007/978-3-030-80387-2%5F32"><strong>10.1007/978-3-030-80387 232 </strong></a></td>
         </tr>
     
 
