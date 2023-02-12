@@ -10,6 +10,10 @@
 
 .post {
   display: flex;
+  border-bottom: 1px solid;
+  border-bottom-color: rgb(0, 61, 64) !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .thumb {
@@ -23,6 +27,8 @@
 
 </style>
 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
 <body>
 
@@ -31,6 +37,7 @@
 {% include header.html %}
 
 <div class="posts">
+
   {% for post in site.posts %}
     <div class="post">
 
@@ -43,20 +50,21 @@
           Title
           Authors
           Date
-          Expandable abstract
           PDF link
           Google scholar link
 
         -->
         <div class="post-body"> 
     <!-- Post body -->
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <h3><a href="{{ post.doi }}">{{ post.title }}</a></h3>
 
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    {{ post.authors }} <br>
 
-    <time itemprop="datePublished" datetime="{{ post.date | date: '%Y-%m-%d' }}">
-    {{ post.date | date: "%-d %b %Y" }}
-    </time>
+    <i>{{ post.date | date: "%-d %b %Y" }}</i> <br>
+
+    <button><i class="fas fa-file-alt"></i> PDF</button>
+    <button><i class="ai ai-google-scholar ai-1x"></i> Google Scholar</button>
+
     <!-- End post body -->
  
         </div>
