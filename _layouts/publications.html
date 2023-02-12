@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+{% include head.html %}
+
+
+<html>
+
+
+<style>
+
+.post {
+  display: flex;
+}
+
+.thumb {
+  flex: 60%;
+  margin: 10px;
+}
+
+.post-body {
+  margin: 10px;
+}
+
+</style>
+
+
+<body>
+
+<div class="container">
+
+{% include header.html %}
+
+<div class="posts">
+  {% for post in site.posts %}
+    <div class="post">
+
+        <div class="thumb">
+            <img src="{{ post.image }}">
+        </div>
+
+        <!--
+          Want:
+          Title
+          Authors
+          Date
+          Expandable abstract
+          PDF link
+          Google scholar link
+
+        -->
+        <div class="post-body"> 
+    <!-- Post body -->
+    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+
+    <time itemprop="datePublished" datetime="{{ post.date | date: '%Y-%m-%d' }}">
+    {{ post.date | date: "%-d %b %Y" }}
+    </time>
+    <!-- End post body -->
+ 
+        </div>
+
+    </div>
+  {% endfor %}
+</div>
+
+{% include footer.html %}
+
+</div>
+
+</body>
+</html>
