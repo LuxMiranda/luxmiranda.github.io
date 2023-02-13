@@ -5,24 +5,48 @@
 
 <html>
 
-
 <style>
+
+.btn {
+  padding: 8px;
+  border: 1px solid #ffa200;
+  border-radius: 2px;
+  background-color: #f9f9f9;
+  cursor: pointer;
+  text-decoration: none;
+  color: #ffa200;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  box-shadow: 0 0px 8px 0 #ffa200;
+}
+
+.nounderline:hover {
+  text-decoration: none;
+}
 
 .post {
   display: flex;
   border-bottom: 1px solid;
-  border-bottom-color: rgb(0, 61, 64) !important;
+    border-bottom-color: #e0e0e0 !important;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
 .thumb {
-  flex: 60%;
+  flex: 50%;
   margin: 10px;
 }
 
 .post-body {
   margin: 10px;
+  color: #111;
+}
+
+h3 {
+  font-weight: bold;
+  margin-bottom: 0px;
 }
 
 </style>
@@ -42,7 +66,7 @@
     <div class="post">
 
         <div class="thumb">
-            <img src="{{ post.image }}">
+          <a href="{{ post.doi }}"><img src="{{ post.image }}" alt="{{ post.imagealt }}" /></a>
         </div>
 
         <!--
@@ -62,8 +86,16 @@
 
     <i>{{ post.date | date: "%-d %b %Y" }}</i> <br>
 
-    <button><i class="fas fa-file-alt"></i> PDF</button>
-    <button><i class="ai ai-google-scholar ai-1x"></i> Google Scholar</button>
+    <a class="nounderline" href="{{ post.pdf }}">
+         <button class="btn">
+         <i class="fas fa-file-alt"></i> PDF
+         </button>
+    </a>
+    <a class="nounderline" href="{{ post.gscholar }}">
+      <button class="btn">
+      <i class="ai ai-google-scholar ai-1x"></i> Google Scholar
+      </button>
+    </a>
 
     <!-- End post body -->
  

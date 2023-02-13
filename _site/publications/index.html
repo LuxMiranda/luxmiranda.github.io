@@ -36,24 +36,48 @@
 
 <html>
 
-
 <style>
+
+.btn {
+  padding: 8px;
+  border: 1px solid #ffa200;
+  border-radius: 2px;
+  background-color: #f9f9f9;
+  cursor: pointer;
+  text-decoration: none;
+  color: #ffa200;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  box-shadow: 0 0px 8px 0 #ffa200;
+}
+
+.nounderline:hover {
+  text-decoration: none;
+}
 
 .post {
   display: flex;
   border-bottom: 1px solid;
-  border-bottom-color: rgb(0, 61, 64) !important;
+    border-bottom-color: #e0e0e0 !important;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
 .thumb {
-  flex: 60%;
+  flex: 50%;
   margin: 10px;
 }
 
 .post-body {
   margin: 10px;
+  color: #111;
+}
+
+h3 {
+  font-weight: bold;
+  margin-bottom: 0px;
 }
 
 </style>
@@ -126,7 +150,7 @@
     <div class="post">
 
         <div class="thumb">
-            <img src="/images/2020-05-13/temple.jpg">
+          <a href="https://doi.org/10.1371/journal.pone.0232609"><img src="/images/thumbs/temple.jpg" alt="Sri Ranganatha Swamy Temple, Srirangam, Tiruchirapalli, India" /></a>
         </div>
 
         <!--
@@ -142,76 +166,20 @@
     <!-- Post body -->
     <h3><a href="https://doi.org/10.1371/journal.pone.0232609">The two types of society: Computationally revealing recurrent social formations and their evolutionary trajectories</a></h3>
 
-    L Miranda, J Freeman <br>
-
-    <i>15 May 2020</i> <br>
-
-    <button><i class="fas fa-file-alt"></i> PDF</button>
-    <button><i class="ai ai-google-scholar ai-1x"></i> Google Scholar</button>
-
-    <!-- End post body -->
- 
-        </div>
-
-    </div>
-  
-    <div class="post">
-
-        <div class="thumb">
-            <img src="/images/2020-05-13/temple.jpg">
-        </div>
-
-        <!--
-          Want:
-          Title
-          Authors
-          Date
-          PDF link
-          Google scholar link
-
-        -->
-        <div class="post-body"> 
-    <!-- Post body -->
-    <h3><a href="https://doi.org/10.1371/journal.pone.0232609">The two types of society: Computationally revealing recurrent social formations and their evolutionary trajectories</a></h3>
-
-    L Miranda, J Freeman <br>
-
-    <i>14 May 2020</i> <br>
-
-    <button><i class="fas fa-file-alt"></i> PDF</button>
-    <button><i class="ai ai-google-scholar ai-1x"></i> Google Scholar</button>
-
-    <!-- End post body -->
- 
-        </div>
-
-    </div>
-  
-    <div class="post">
-
-        <div class="thumb">
-            <img src="/images/2020-05-13/temple.jpg">
-        </div>
-
-        <!--
-          Want:
-          Title
-          Authors
-          Date
-          PDF link
-          Google scholar link
-
-        -->
-        <div class="post-body"> 
-    <!-- Post body -->
-    <h3><a href="https://doi.org/10.1371/journal.pone.0232609">The two types of society: Computationally revealing recurrent social formations and their evolutionary trajectories</a></h3>
-
-    L Miranda, J Freeman <br>
+    Lux Miranda & Jacob Freeman <br>
 
     <i>13 May 2020</i> <br>
 
-    <button><i class="fas fa-file-alt"></i> PDF</button>
-    <button><i class="ai ai-google-scholar ai-1x"></i> Google Scholar</button>
+    <a class="nounderline" href="/publications/miranda_freeman_2020.pdf">
+         <button class="btn">
+         <i class="fas fa-file-alt"></i> PDF
+         </button>
+    </a>
+    <a class="nounderline" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4Kvx61cAAAAJ&citation_for_view=4Kvx61cAAAAJ:u5HHmVD_uO8C">
+      <button class="btn">
+      <i class="ai ai-google-scholar ai-1x"></i> Google Scholar
+      </button>
+    </a>
 
     <!-- End post body -->
  
