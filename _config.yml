@@ -1,8 +1,8 @@
 ### Site info:
-title: Lux Miranda
-author: Lux Miranda
-email: lux@knights.ucf.edu
-description: "Lux Miranda's homepage" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+title: lux miranda
+author: lux miranda
+email: lux.miranda@it.uu.se
+description: "lux miranda's homepage" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "lux, miranda, anthropology, computer science, cultural evolution, mathematics, cliodynamics, complex adaptive systems, complexity"
 baseurl: # the subpath of your site, e.g. /blog/
 url: "https://luxmiranda.com" # the base hostname & protocol for your site

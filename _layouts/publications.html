@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+
+{% include head.html %}
+
+
+<html>
+
+<style>
+
+.btn {
+  padding: 8px;
+  border: 1px solid #ffa200;
+  margin-top:6px;
+  border-radius: 2px;
+  background-color: #f9f9f9;
+  cursor: pointer;
+  text-decoration: none;
+  color: #ffa200;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  box-shadow: 0 0px 8px 0 #ffa200;
+}
+
+.nounderline:hover {
+  text-decoration: none;
+}
+
+.post {
+  display: flex;
+  border-bottom: 1px solid;
+    border-bottom-color: #e0e0e0 !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.thumb {
+  flex: 30%;
+  margin: 10px;
+}
+
+.post-body {
+  flex: 70%;
+  margin: 10px;
+  color: #111;
+}
+
+h3 {
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+
+@media (max-width: 600px) {
+ .post-body { 
+    font-size: 0.7em;
+    line-height: 1.3em;
+  }
+  h3 {
+    font-size: 1em;
+    line-height: 1.3em;
+  }
+
+  .thumb {
+    margin-right: 0px;
+  }
+  .btn {
+    font-size: 0.7em;
+  }
+
+}
+
+</style>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+<body>
+
+<div class="container">
+
+{% include header.html %}
+
+<div class="lowercase">
+<div class="posts">
+
+  {% for post in site.posts %}
+    <div class="post">
+
+        <div class="thumb">
+          <a href="{{ post.doi }}"><img src="{{ post.image }}" alt="{{ post.imagealt }}" /></a>
+        </div>
+
+        <!--
+          Want:
+          Title Authors Date PDF link
+          Google scholar link
+
+        -->
+        <div class="post-body"> 
+    <!-- Post body -->
+    <h3><a href="{{ post.doi }}">{{ post.title }}</a></h3>
+
+    {{ post.authors }} <br>
+
+    <i>{{ post.date | date: "%-d %b %Y" }}</i>&nbsp;&nbsp;|&nbsp;
+    <i>{{ post.venue }}</i><br>
+
+    <a class="nounderline" href="{{ post.pdf }}">
+         <button class="btn">
+         <i class="fas fa-file-alt"></i> pdf
+         </button>
+    </a>
+    {% if post.gscholar %}
+    <a class="nounderline" href="{{ post.gscholar }}">
+      <button class="btn">
+      <i class="ai ai-google-scholar ai-1x"></i> google scholar
+      </button>
+    </a>
+    {% endif %}
+
+    <!-- End post body -->
+ 
+        </div>
+
+    </div>
+  {% endfor %}
+</div>
+</div>
+
+{% include footer.html %}
+
+</div>
+
+</body>
+</html>
