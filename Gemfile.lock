@@ -262,6 +262,7 @@ DEPENDENCIES
   github-pages (>= 226)
   jekyll (>= 3.9.2)
   jekyll-feed
+  jekyll-redirect-from
   kramdown (>= 2.3.1)
   nokogiri (>= 1.11.0.rc4)
   rexml (>= 3.2.5)
