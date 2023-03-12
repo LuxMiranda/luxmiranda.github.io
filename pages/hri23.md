@@ -31,7 +31,7 @@ permalink: /hri23
 
 
 <h1>Examining the state of robot identity</h1>
-<img src="/images/robot-and-woman.png" style="width: 100%; height: 400px; object-fit: cover; object-position:top;" alt="An AI-generated image in the style of an abstract oil painting of a woman speaking with a robot." >
+<img src="/images/Cover.png" style="width: 100%; height: 400px; object-fit: cover; object-position:top;" alt="An AI-generated image of a feminine-looking robot before a vibrant, colorful background." >
 
 
 by **Lux Miranda**, **Ginevra Castellano**, and **Katie Winkle** <br />
