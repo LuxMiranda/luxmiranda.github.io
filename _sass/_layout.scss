@@ -44,14 +44,35 @@
     display: none;
   }
 
+  .nav-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  .nav-li {
+    float: left;
+  }
+
+  .nav-li:hover {
+    background-color: #333;
+  }
+
+  .nav-li a {
+    display: block;
+    text-align: center;
+    padding: 7px 16px;
+  }
+
   .page-link {
     color: $grey-color;
-    line-height: $base-line-height;
-
+//    line-height: $base-line-height;
+  
     // Gaps between nav items, but not on the first one
 
-    margin-left: 10px;
-    margin-right: 10px;
+    //margin-left: 10px;
+    //margin-right: 10px;
 
   }
 

@@ -290,11 +290,21 @@ cite {
   border-bottom: 1px solid white; }
   .site-nav .menu-icon {
     display: none; }
+  .site-nav .nav-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; }
+  .site-nav .nav-li {
+    float: left; }
+  .site-nav .nav-li:hover {
+    background-color: #333; }
+  .site-nav .nav-li a {
+    display: block;
+    text-align: center;
+    padding: 7px 16px; }
   .site-nav .page-link {
-    color: #d8d4cf;
-    line-height: 1.6em;
-    margin-left: 10px;
-    margin-right: 10px; }
+    color: #d8d4cf; }
   .site-nav a {
     text-decoration: none; }
     .site-nav a:hover {
