@@ -36,14 +36,16 @@
 }
 
 .site-nav {
-  /*float: right;*/
   line-height: 56px;
   border-top: 1px solid $grey-color-light;
   border-bottom: 1px solid $grey-color-light;
+
+  /* hide menu icon */
   .menu-icon {
     display: none;
   }
 
+  /* style for navigation list */
   .nav-ul {
     list-style-type: none;
     margin: 0;
@@ -51,29 +53,41 @@
     overflow: hidden;
   }
 
+  /* style for navigation list items */
   .nav-li {
     float: left;
+    position: relative; /* add position */
   }
 
+  /* style for navigation list items on hover */
   .nav-li:hover {
-    background-color: #333;
+    /* add a sparkling effect on hover */
+  //  background: linear-gradient(90deg, rgba(48,53,55,1) 29%, rgba(218,5,130,1) 42%, rgba(255,162,0,1) 48%, rgba(255,162,0,1) 53%, rgba(218,5,130,1) 60%, rgba(48,53,55,1) 70%);
+    //background-size: 800%;
+    background-color: rgba(48,53,55,1);
+    animation: fade-in 0.4s linear 1;
   }
 
+  /* animation for sparkling effect */
+  @keyframes fade-in {
+    0% {
+      background-color: rgba(48,53,55,0);
+    }
+    100% {
+       background-color: rgba(48,53,55,1);
+    }
+  }
+
+  /* style for links inside navigation list items */
   .nav-li a {
     display: block;
     text-align: center;
     padding: 7px 16px;
+    color: $grey-color; /* move link color here */
   }
 
   .page-link {
     color: $grey-color;
-//    line-height: $base-line-height;
-  
-    // Gaps between nav items, but not on the first one
-
-    //margin-left: 10px;
-    //margin-right: 10px;
-
   }
 
   a{

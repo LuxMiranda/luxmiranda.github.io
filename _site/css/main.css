@@ -284,10 +284,15 @@ cite {
   color: #d8d4cf; }
 
 .site-nav {
-  /*float: right;*/
   line-height: 56px;
   border-top: 1px solid white;
-  border-bottom: 1px solid white; }
+  border-bottom: 1px solid white;
+  /* hide menu icon */
+  /* style for navigation list */
+  /* style for navigation list items */
+  /* style for navigation list items on hover */
+  /* animation for sparkling effect */
+  /* style for links inside navigation list items */ }
   .site-nav .menu-icon {
     display: none; }
   .site-nav .nav-ul {
@@ -296,13 +301,24 @@ cite {
     padding: 0;
     overflow: hidden; }
   .site-nav .nav-li {
-    float: left; }
+    float: left;
+    position: relative;
+    /* add position */ }
   .site-nav .nav-li:hover {
-    background-color: #333; }
+    /* add a sparkling effect on hover */
+    background-color: #303537;
+    animation: fade-in 0.4s linear 1; }
+@keyframes fade-in {
+  0% {
+    background-color: rgba(48, 53, 55, 0); }
+  100% {
+    background-color: #303537; } }
   .site-nav .nav-li a {
     display: block;
     text-align: center;
-    padding: 7px 16px; }
+    padding: 7px 16px;
+    color: #d8d4cf;
+    /* move link color here */ }
   .site-nav .page-link {
     color: #d8d4cf; }
   .site-nav a {
