@@ -146,32 +146,26 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: $brand-top-color;
   text-decoration: none;
+   background: 
+    linear-gradient(to right, rgba(100, 200, 200, 0), rgba(100, 200, 200, 0)),
+    linear-gradient(to right, $brand-top-color, $hover-color);
+  background-size: 100% 0.1em, 0 0.075em;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms;
 
   &:visited {
     color: $brand-top-color;
   }
 
-  &:hover {
-    color: $hover-color;
-    text-decoration: underline;
+  &:hover, &:focus {
+    //color: $hover-color;
+    background-size: 0 0.1em, 100% 0.1em;
+    //text-decoration: underline;
   }
 }
 
 
-.post-content a{
-  color: $brand-color;    
-  text-decoration: none;  
-  border-bottom: 1px dotted;
-  &:visited {             
-    color: $brand-color;
-  }                       
-
-  &:hover {               
-    color: $hover-color;
-    text-decoration: none;
-  }  
-
-}
 
 /**
  * Blockquotes

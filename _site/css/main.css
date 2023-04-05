@@ -112,22 +112,16 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   color: #ffa200;
-  text-decoration: none; }
+  text-decoration: none;
+  background: linear-gradient(to right, rgba(100, 200, 200, 0), rgba(100, 200, 200, 0)), linear-gradient(to right, #ffa200, #ff0095);
+  background-size: 100% 0.1em, 0 0.075em;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms; }
   a:visited {
     color: #ffa200; }
-  a:hover {
-    color: #ff0095;
-    text-decoration: underline; }
-
-.post-content a {
-  color: #ff0095;
-  text-decoration: none;
-  border-bottom: 1px dotted; }
-  .post-content a:visited {
-    color: #ff0095; }
-  .post-content a:hover {
-    color: #ff0095;
-    text-decoration: none; }
+  a:hover, a:focus {
+    background-size: 0 0.1em, 100% 0.1em; }
 
 /**
  * Blockquotes

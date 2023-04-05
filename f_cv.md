@@ -45,13 +45,19 @@ permalink: /CV/
     
 
         <tr>
-            <td>2023 <br> (Invited; In review)</td>
-            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2023). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. Invited and in review for a special issue of the <i>Journal of Artificial Societies and Social Sciences</i>.</td>
+            <td>2023 <br> (Submitted)</td>
+            <td><strong>Miranda, L.</strong> & Milano, S. (2023). Recommender systems worsen (and likely cannot help) epistemic polarization. Submitted to <i>Theoretical Aspects of Rationality & Knowledge (TARK-2023)</i>.</td>
         </tr>
     
 
         <tr>
-            <td>2023 <br> (In press)</td>
+            <td>2023 <br> <i>Invited manuscript</i></td>
+            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2023). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. <i>Journal of Artificial Societies and Social Sciences</i>. <a href="https://doi.org/10.18564/jasss.5069"><strong>https://doi.org/10.18564/jasss.5069 </strong></a></td>
+        </tr>
+    
+
+        <tr>
+            <td>2023</td>
             <td><strong>Miranda, L.</strong>, Castellano, G., & Winkle, K. (2023). Examining the State of Robot Identity. <i>Proceedings of the 18th Annual ACM/IEE International Conference on Human-Robot Interaction (HRI '23)</i>. <a href="https://doi.org/10.1145/3568294.3580168"><strong>https://doi.org/10.1145/3568294.3580168 </strong></a></td>
         </tr>
     
@@ -94,49 +100,13 @@ permalink: /CV/
 
         <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
-            <td class="cvheader">Presentations</td>
-        </tr>
-    
-
-        <tr>
-            <td>06 December 2022</td>
-            <td>Interactive exhibit: What does it mean to ascribe identity to robots? <i>HRI Winterschool on Embodied AI 2022</i>, Ghent University, Belgium</td>
-        </tr>
-    
-
-        <tr>
-            <td>15 September 2022</td>
-            <td>Stochasity can not be ignored: Results from the evolutionary model discovery of behavioral factors driving decision-making in an irrigation experiment. <i>Social Simulation Conference 2022</i>. Milan, Italy / Virtual</td>
-        </tr>
-    
-
-        <tr>
-            <td>07 April 2022</td>
-            <td>Humans in Algorithms, Algorithms in Humans: Understanding Cooperation and Creating Social AI with Causal Generative Models. <i>Thesis Defense</i>. University of Central Florida, Orlando, Florida, USA</td>
-        </tr>
-    
-
-        <tr>
-            <td>07 July 2021</td>
-            <td>Multi-agent Naïve Utility Calculus: Intent Recognition in the Stag-Hunt Game. <i>2021 International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation</i>. Virtual</td>
-        </tr>
-    
-
-        <tr>
-            <td>10 June 2021</td>
-            <td>Evolutionary model discovery of behavioral factors driving decision-making in an irrigation experiment. <i>Inverse Generative Social Science (iGSS) Workshop 2021</i>. Virtual <a href="https://youtu.be/Z7zmaHVSHdc"><strong>https://youtu.be/Z7zmaHVSHdc</strong></a></td>
-        </tr>
-    
-
-        <tr class="cvheaderrow">
-            <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Research Experience</td>
         </tr>
     
 
         <tr>
             <td>August 2022 - <br> Present</td>
-            <td><strong>Doctoral student</strong>, <i><a href="https://usr-lab.github.io"><strong>Uppsala Social Robotics Lab </strong></a></i>. Studying the ethics and diversification of robot and user identity, expansive mind/body spaces, and their relation to AI alignment.</td>
+            <td><strong>Doctoral student</strong>, <a href="https://usr-lab.github.io"><strong>Uppsala Social Robotics Lab </strong></a>. Studying the ethics and diversification of robot and user identity, expansive mind/body spaces, and their relation to AI alignment.</td>
         </tr>
     
 
@@ -274,6 +244,48 @@ permalink: /CV/
 
         <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
+            <td class="cvheader">Presentations</td>
+        </tr>
+    
+
+        <tr>
+            <td>14 March 2023</td>
+            <td>Examining the state of robot identity - Poster presentation. <i>ACM/IEEE International Conference on Human-Robot Interaction</i>, Stockholm, Sweden</td>
+        </tr>
+    
+
+        <tr>
+            <td>06 December 2022</td>
+            <td>Interactive exhibit: What does it mean to ascribe identity to robots? <i>HRI Winterschool on Embodied AI 2022</i>, Ghent University, Belgium</td>
+        </tr>
+    
+
+        <tr>
+            <td>15 September 2022</td>
+            <td>Stochasity can not be ignored: Results from the evolutionary model discovery of behavioral factors driving decision-making in an irrigation experiment. <i>Social Simulation Conference 2022</i>. Milan, Italy / Virtual</td>
+        </tr>
+    
+
+        <tr>
+            <td>07 April 2022</td>
+            <td>Humans in Algorithms, Algorithms in Humans: Understanding Cooperation and Creating Social AI with Causal Generative Models. <i>Thesis Defense</i>. University of Central Florida, Orlando, Florida, USA</td>
+        </tr>
+    
+
+        <tr>
+            <td>07 July 2021</td>
+            <td>Multi-agent Naïve Utility Calculus: Intent Recognition in the Stag-Hunt Game. <i>2021 International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation</i>. Virtual</td>
+        </tr>
+    
+
+        <tr>
+            <td>10 June 2021</td>
+            <td>Evolutionary model discovery of behavioral factors driving decision-making in an irrigation experiment. <i>Inverse Generative Social Science (iGSS) Workshop 2021</i>. Virtual <a href="https://youtu.be/Z7zmaHVSHdc"><strong>https://youtu.be/Z7zmaHVSHdc</strong></a></td>
+        </tr>
+    
+
+        <tr class="cvheaderrow">
+            <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Winter Schools</td>
         </tr>
     
@@ -310,7 +322,7 @@ permalink: /CV/
 
         <tr>
             <td>Languages</td>
-            <td>English (native; C2), Swedish (conversational; B2)</td>
+            <td>English (native; C2), Swedish (conversational; B1)</td>
         </tr>
     
 
