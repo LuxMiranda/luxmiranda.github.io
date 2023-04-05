@@ -112,16 +112,13 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   color: #ffa200;
-  text-decoration: none;
-  background: linear-gradient(to right, rgba(100, 200, 200, 0), rgba(100, 200, 200, 0)), linear-gradient(to right, #ffa200, #ff0095);
-  background-size: 100% 0.1em, 0 0.075em;
-  background-position: 100% 100%, 0 100%;
-  background-repeat: no-repeat;
-  transition: background-size 400ms; }
+  text-decoration: none; }
   a:visited {
     color: #ffa200; }
   a:hover, a:focus {
-    background-size: 0 0.1em, 100% 0.1em; }
+    color: #ff0095;
+    text-decoration: underline;
+    transition: color .8s ease-in; }
 
 /**
  * Blockquotes
