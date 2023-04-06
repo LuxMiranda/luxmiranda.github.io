@@ -9,8 +9,64 @@
 <html>
 <style>
 
+/* Enable smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Make ToC nav sticky */
+.section-nav {
+  position: sticky;
+  top: 2rem;
+  align-self: start;
+}
+
+/* ScrollSpy active styles */
+.section-nav li.active > a {
+  color: red;
+}
+
+/* Sidebar navigation */
+.section-nav {
+  padding-right: 0;
+  border-right: 1px solid #ffa200;
+}
+
+.section-nav a {
+  text-decoration: none;
+  display: block;
+  padding: .125rem 0;
+  transition: all 50ms ease-in-out;
+}
+
+.section-nav a:hover, .section-nav a:focus {
+  color: blue;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.section-nav ul, ol {
+  list-style: none;
+}
+
+.section-nav li {
+  margin-right: 1rem;
+}
 
 @media (min-width: 600px) {
+
+  .page-content {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    width: 100%;
+    margin: 0 auto;
+  }
+  table {
+    width: 100% !important;
+  }
+
   .leftcol {
      width: 20%;
   }
@@ -88,6 +144,27 @@ table td:nth-child(1) {
 
 </style>
 
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      const id = entry.target.getAttribute('id');
+      if (entry.intersectionRatio > 0) {
+        document.querySelector(`.section-nav li a[href="#${id}"]`).parentElement.classList.add('active');
+      } else {
+        document.querySelector(`.section-nav li a[href="#${id}"]`).parentElement.classList.remove('active');
+      }
+    });
+  });
+
+  // Track all sections that have an `id` applied
+  document.querySelectorAll('tr[id]').forEach((section) => {
+    observer.observe(section);
+  });
+  
+});
+</script>
 
 <body>
 

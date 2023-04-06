@@ -4,17 +4,17 @@ title: CV
 permalink: /CV/
 ---
 
-# Cirriculum Vitae
-[Download as PDF](CV.pdf)
-
 <table>
 <colgroup>
     <col span ="1" class="leftcol" >
     <col span ="1" class="rightcol">
 </colgroup>
+        <tr>
+            <td></td>
+            <td><h1>Cirriculum vitae</h1></td>
+        </tr>
 
-
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="education">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Education</td>
         </tr>
@@ -38,7 +38,7 @@ permalink: /CV/
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="publications">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Publications</td>
         </tr>
@@ -98,7 +98,7 @@ permalink: /CV/
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="research-experience">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Research Experience</td>
         </tr>
@@ -140,7 +140,7 @@ permalink: /CV/
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="teaching-experience">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Teaching Experience</td>
         </tr>
@@ -170,7 +170,7 @@ permalink: /CV/
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="administration-experience">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Administration Experience</td>
         </tr>
@@ -182,7 +182,7 @@ permalink: /CV/
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="industry-experience">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Industry Experience</td>
         </tr>
@@ -194,7 +194,7 @@ permalink: /CV/
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="scholarships">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Scholarships</td>
         </tr>
@@ -218,7 +218,7 @@ permalink: /CV/
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="awards">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Awards</td>
         </tr>
@@ -242,7 +242,7 @@ permalink: /CV/
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="presentations">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Presentations</td>
         </tr>
@@ -284,7 +284,7 @@ permalink: /CV/
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="winter-schools">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Winter Schools</td>
         </tr>
@@ -302,7 +302,7 @@ permalink: /CV/
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="skills">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Skills</td>
         </tr>
@@ -331,5 +331,24 @@ permalink: /CV/
             <td>Mesoamerican, vegan pastries, hot beverages</td>
         </tr>
     
+    <div class="section-nav">
+        <ol>
+            <li><a href="#education">Education</a></li>
+<li><a href="#publications">Publications</a></li>
+<li><a href="#research-experience">Research Experience</a></li>
+<li><a href="#teaching-experience">Teaching Experience</a></li>
+<li><a href="#administration-experience">Administration Experience</a></li>
+<li><a href="#industry-experience">Industry Experience</a></li>
+<li><a href="#scholarships">Scholarships</a></li>
+<li><a href="#awards">Awards</a></li>
+<li><a href="#presentations">Presentations</a></li>
+<li><a href="#winter-schools">Winter Schools</a></li>
+<li><a href="#skills">Skills</a></li>
+        </ol>
+    </div>
+    
 
 </table>
+
+
+

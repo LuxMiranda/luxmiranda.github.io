@@ -40,8 +40,64 @@
 <html>
 <style>
 
+/* Enable smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Make ToC nav sticky */
+.section-nav {
+  position: sticky;
+  top: 2rem;
+  align-self: start;
+}
+
+/* ScrollSpy active styles */
+.section-nav li.active > a {
+  color: red;
+}
+
+/* Sidebar navigation */
+.section-nav {
+  padding-right: 0;
+  border-right: 1px solid #ffa200;
+}
+
+.section-nav a {
+  text-decoration: none;
+  display: block;
+  padding: .125rem 0;
+  transition: all 50ms ease-in-out;
+}
+
+.section-nav a:hover, .section-nav a:focus {
+  color: blue;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.section-nav ul, ol {
+  list-style: none;
+}
+
+.section-nav li {
+  margin-right: 1rem;
+}
 
 @media (min-width: 600px) {
+
+  .page-content {
+    display: grid;
+    grid-template-columns: 20% 80%;
+    width: 100%;
+    margin: 0 auto;
+  }
+  table {
+    width: 100% !important;
+  }
+
   .leftcol {
      width: 20%;
   }
@@ -119,6 +175,27 @@ table td:nth-child(1) {
 
 </style>
 
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      const id = entry.target.getAttribute('id');
+      if (entry.intersectionRatio > 0) {
+        document.querySelector(`.section-nav li a[href="#${id}"]`).parentElement.classList.add('active');
+      } else {
+        document.querySelector(`.section-nav li a[href="#${id}"]`).parentElement.classList.remove('active');
+      }
+    });
+  });
+
+  // Track all sections that have an `id` applied
+  document.querySelectorAll('tr[id]').forEach((section) => {
+    observer.observe(section);
+  });
+  
+});
+</script>
 
 <body>
 
@@ -188,17 +265,17 @@ table td:nth-child(1) {
 
 
   <div class="page-content">
-    <h1 id="cirriculum-vitae">Cirriculum Vitae</h1>
-<p><a href="CV.pdf">Download as PDF</a></p>
-
-<table>
+    <table>
 <colgroup>
     <col span="1" class="leftcol" />
     <col span="1" class="rightcol" />
 </colgroup>
+        <tr>
+            <td></td>
+            <td><h1>Cirriculum vitae</h1></td>
+        </tr>
 
-
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="education">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Education</td>
         </tr>
@@ -222,7 +299,7 @@ table td:nth-child(1) {
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="publications">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Publications</td>
         </tr>
@@ -282,7 +359,7 @@ table td:nth-child(1) {
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="research-experience">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Research Experience</td>
         </tr>
@@ -324,7 +401,7 @@ table td:nth-child(1) {
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="teaching-experience">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Teaching Experience</td>
         </tr>
@@ -354,7 +431,7 @@ table td:nth-child(1) {
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="administration-experience">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Administration Experience</td>
         </tr>
@@ -366,7 +443,7 @@ table td:nth-child(1) {
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="industry-experience">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Industry Experience</td>
         </tr>
@@ -378,7 +455,7 @@ table td:nth-child(1) {
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="scholarships">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Scholarships</td>
         </tr>
@@ -402,7 +479,7 @@ table td:nth-child(1) {
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="awards">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Awards</td>
         </tr>
@@ -426,7 +503,7 @@ table td:nth-child(1) {
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="presentations">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Presentations</td>
         </tr>
@@ -468,7 +545,7 @@ table td:nth-child(1) {
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="winter-schools">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Winter Schools</td>
         </tr>
@@ -486,7 +563,7 @@ table td:nth-child(1) {
         </tr>
     
 
-        <tr class="cvheaderrow">
+        <tr class="cvheaderrow" id="skills">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Skills</td>
         </tr>
@@ -515,8 +592,25 @@ table td:nth-child(1) {
             <td>Mesoamerican, vegan pastries, hot beverages</td>
         </tr>
     
+    <div class="section-nav">
+        <ol>
+            <li><a href="#education">Education</a></li>
+<li><a href="#publications">Publications</a></li>
+<li><a href="#research-experience">Research Experience</a></li>
+<li><a href="#teaching-experience">Teaching Experience</a></li>
+<li><a href="#administration-experience">Administration Experience</a></li>
+<li><a href="#industry-experience">Industry Experience</a></li>
+<li><a href="#scholarships">Scholarships</a></li>
+<li><a href="#awards">Awards</a></li>
+<li><a href="#presentations">Presentations</a></li>
+<li><a href="#winter-schools">Winter Schools</a></li>
+<li><a href="#skills">Skills</a></li>
+        </ol>
+    </div>
+    
 
 </table>
+
 
     <section class="pager">
   
