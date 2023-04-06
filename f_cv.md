@@ -4,17 +4,36 @@ title: CV
 permalink: /CV/
 ---
 
-<table>
-<colgroup>
-    <col span ="1" class="leftcol" >
-    <col span ="1" class="rightcol">
-</colgroup>
-        <tr>
-            <td></td>
-            <td><h1>Cirriculum vitae</h1></td>
-        </tr>
+<html>
 
-        <tr class="cvheaderrow" id="education">
+
+    <div class="section-nav">
+        <ol>
+            <li><a href="#education">Education</a></li>
+<li><a href="#publications">Publications</a></li>
+<li><a href="#research-experience">Research experience</a></li>
+<li><a href="#teaching-experience">Teaching experience</a></li>
+<li><a href="#admin-experience">Admin experience</a></li>
+<li><a href="#industry-experience">Industry experience</a></li>
+<li><a href="#scholarships">Scholarships</a></li>
+<li><a href="#awards">Awards</a></li>
+<li><a href="#presentations">Presentations</a></li>
+<li><a href="#winter-schools">Winter schools</a></li>
+<li><a href="#skills">Skills</a></li>
+        </ol>
+    </div>
+     
+
+<div>
+
+        <section id="education">
+        <table>
+        <colgroup>
+            <col span ="1" class="leftcol" >
+            <col span ="1" class="rightcol">
+        </colgroup>
+    
+        <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Education</td>
         </tr>
@@ -36,9 +55,16 @@ permalink: /CV/
             <td>2016-2020</td>
             <td><strong>Bachelor of Science with University Honors, double-major in Computational Mathematics and Computer Science, minor in Anthropology, <i>Cum Laude</i></strong><br><ul><li><a href="https://en.wikipedia.org/wiki/Utah%5FState%5FUniversity"><strong>Utah State University </strong></a> (USU) , <i>Logan, Utah, USA</i></li><br><li><a href="https://doi.org/10.1371/journal.pone.0232609"><strong>Honors thesis</strong></a>: <i>Computationally revealing recurrent social formations and their evolutionary trajectories</i></li></ul></td>
         </tr>
-    
+    </table></section>
 
-        <tr class="cvheaderrow" id="publications">
+        <section id="publications">
+        <table>
+        <colgroup>
+            <col span ="1" class="leftcol" >
+            <col span ="1" class="rightcol">
+        </colgroup>
+    
+        <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Publications</td>
         </tr>
@@ -96,11 +122,18 @@ permalink: /CV/
             <td>2020</td>
             <td><strong>Miranda, L.</strong> & Freeman, J. (2020). The two types of society: Computationally revealing recurrent social formations and their evolutionary trajectories. <i>PLoS One</i> <a href="https://doi.org/10.1371/journal.pone.0232609"><strong>10.1371/journal.pone.0232609 </strong></a></td>
         </tr>
-    
+    </table></section>
 
-        <tr class="cvheaderrow" id="research-experience">
+        <section id="research-experience">
+        <table>
+        <colgroup>
+            <col span ="1" class="leftcol" >
+            <col span ="1" class="rightcol">
+        </colgroup>
+    
+        <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
-            <td class="cvheader">Research Experience</td>
+            <td class="cvheader">Research experience</td>
         </tr>
     
 
@@ -138,11 +171,18 @@ permalink: /CV/
             <td>Summer 2018</td>
             <td><strong>NASA Space Grant Consortium Fellow.</strong> Awarded a $1,600 USD <a href="http://www.utahspacegrant.com/about/"><strong>NASA space grant fellowship</strong></a> to continue work on a CubeSat mission as the software team leader for the USU Get Away Special Microgravity Research team. Managed a team of ten other programmers. Wrote software for a prototype platform that successfully served over a dozen high-altitude balloon flights. The project (<a href="https://en.wikipedia.org/wiki/GASPACS"><strong>GASPACS</strong></a>) was the world's first CubeSat developed entirely by undergraduate students. It successfully served its mission after being launched to the International Space Station as part of the <a href="https://en.wikipedia.org/wiki/SpaceX%5FCRS-24"><strong>SpaceX CRS-24</strong></a> mission and deployed into low Earth orbit on 26 January 2022.</td>
         </tr>
-    
+    </table></section>
 
-        <tr class="cvheaderrow" id="teaching-experience">
+        <section id="teaching-experience">
+        <table>
+        <colgroup>
+            <col span ="1" class="leftcol" >
+            <col span ="1" class="rightcol">
+        </colgroup>
+    
+        <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
-            <td class="cvheader">Teaching Experience</td>
+            <td class="cvheader">Teaching experience</td>
         </tr>
     
 
@@ -168,11 +208,18 @@ permalink: /CV/
             <td>August 2016 - <br> May 2017 <br> (2 semesters)</td>
             <td><strong>Computer Science Tutor.</strong> <i>Utah State University Department of Computer Science.</i> Tutored students in introductory computer science courses. Primarily assisted with homework concepts and code debugging.</td>
         </tr>
-    
+    </table></section>
 
-        <tr class="cvheaderrow" id="administration-experience">
+        <section id="admin-experience">
+        <table>
+        <colgroup>
+            <col span ="1" class="leftcol" >
+            <col span ="1" class="rightcol">
+        </colgroup>
+    
+        <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
-            <td class="cvheader">Administration Experience</td>
+            <td class="cvheader">Admin experience</td>
         </tr>
     
 
@@ -180,11 +227,18 @@ permalink: /CV/
             <td>Fall 2022 - <br> Present</td>
             <td><strong>PhD Student Representative.</strong> <a href="https://www.it.uu.se/about%5Fus/divisions/vi3"><strong>Uppsala University Vi3 Division</strong></a>. Representing all PhD students within the human-machine interaction unit in division-wide decisions (US equivalent: representing a department within a college).</td>
         </tr>
-    
+    </table></section>
 
-        <tr class="cvheaderrow" id="industry-experience">
+        <section id="industry-experience">
+        <table>
+        <colgroup>
+            <col span ="1" class="leftcol" >
+            <col span ="1" class="rightcol">
+        </colgroup>
+    
+        <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
-            <td class="cvheader">Industry Experience</td>
+            <td class="cvheader">Industry experience</td>
         </tr>
     
 
@@ -192,9 +246,16 @@ permalink: /CV/
             <td>May 2017 - <br> October 2017 <br> (6 months)</td>
             <td><strong>Embedded Engineering Assistant.</strong> <a href="https://sdl.usu.edu/"><strong>Space Dynamics Laboratory</strong></a>, Logan, Utah. USA. Developed software for embedded systems in C++. Built a technology demo showcasing a multi-agent platform which toured the USA to help garner  funding. Developed, documented, and standardized methods for in-house Linux distribution management that continued to be used after my departure.</td>
         </tr>
-    
+    </table></section>
 
-        <tr class="cvheaderrow" id="scholarships">
+        <section id="scholarships">
+        <table>
+        <colgroup>
+            <col span ="1" class="leftcol" >
+            <col span ="1" class="rightcol">
+        </colgroup>
+    
+        <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Scholarships</td>
         </tr>
@@ -216,9 +277,16 @@ permalink: /CV/
             <td>2016-2020 <br> (4 years)</td>
             <td><strong>Daniels Scholarship.</strong> Received the full-ride <a href="https://www.danielsfund.org/scholarships/daniels-scholarship-program/overview"><strong>Daniels Scholarship </strong></a> (final award amount: $58,100 USD) to attend any four-year Bachelor's program in the USA for demonstrating exceptional leadership ability, strength of character, and commitment to community betterment. To maintain the scholarship, I was required to strictly keep the Daniels Scholar Code of Conduct which entailed working a paid position for at least ten hours per week during the semester, following all local laws, being involved in community betterment, and maintaining good academic standing.</td>
         </tr>
-    
+    </table></section>
 
-        <tr class="cvheaderrow" id="awards">
+        <section id="awards">
+        <table>
+        <colgroup>
+            <col span ="1" class="leftcol" >
+            <col span ="1" class="rightcol">
+        </colgroup>
+    
+        <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Awards</td>
         </tr>
@@ -240,9 +308,16 @@ permalink: /CV/
             <td>July 2021</td>
             <td><strong>Best Human-Autonomy Teaming Paper</strong>. Awarded by the <i>Social, Cultural, and Behavioral Modeling (SBP-BRiMS) 2021</i> conference for my <a href="https://doi.org/10i1007/978-3-030-80387-2%5F32"><strong>submission</strong></a>.</td>
         </tr>
-    
+    </table></section>
 
-        <tr class="cvheaderrow" id="presentations">
+        <section id="presentations">
+        <table>
+        <colgroup>
+            <col span ="1" class="leftcol" >
+            <col span ="1" class="rightcol">
+        </colgroup>
+    
+        <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Presentations</td>
         </tr>
@@ -282,11 +357,18 @@ permalink: /CV/
             <td>10 June 2021</td>
             <td>Evolutionary model discovery of behavioral factors driving decision-making in an irrigation experiment. <i>Inverse Generative Social Science (iGSS) Workshop 2021</i>. Virtual <a href="https://youtu.be/Z7zmaHVSHdc"><strong>https://youtu.be/Z7zmaHVSHdc</strong></a></td>
         </tr>
-    
+    </table></section>
 
-        <tr class="cvheaderrow" id="winter-schools">
+        <section id="winter-schools">
+        <table>
+        <colgroup>
+            <col span ="1" class="leftcol" >
+            <col span ="1" class="rightcol">
+        </colgroup>
+    
+        <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
-            <td class="cvheader">Winter Schools</td>
+            <td class="cvheader">Winter schools</td>
         </tr>
     
 
@@ -300,9 +382,16 @@ permalink: /CV/
             <td>January 2021</td>
             <td><strong><a href="https://web.archive.org/web/20210118141023/https://complexity.asu.edu/cbie/winterschool"><strong>Agent-Based Modeling of Social-Ecological Systems</strong></a></strong>, Arizona State University, USA</td>
         </tr>
-    
+    </table></section>
 
-        <tr class="cvheaderrow" id="skills">
+        <section id="skills">
+        <table>
+        <colgroup>
+            <col span ="1" class="leftcol" >
+            <col span ="1" class="rightcol">
+        </colgroup>
+    
+        <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Skills</td>
         </tr>
@@ -330,24 +419,7 @@ permalink: /CV/
             <td>Cooking</td>
             <td>Mesoamerican, vegan pastries, hot beverages</td>
         </tr>
-    
-    <div class="section-nav">
-        <ol>
-            <li><a href="#education">Education</a></li>
-<li><a href="#publications">Publications</a></li>
-<li><a href="#research-experience">Research Experience</a></li>
-<li><a href="#teaching-experience">Teaching Experience</a></li>
-<li><a href="#administration-experience">Administration Experience</a></li>
-<li><a href="#industry-experience">Industry Experience</a></li>
-<li><a href="#scholarships">Scholarships</a></li>
-<li><a href="#awards">Awards</a></li>
-<li><a href="#presentations">Presentations</a></li>
-<li><a href="#winter-schools">Winter Schools</a></li>
-<li><a href="#skills">Skills</a></li>
-        </ol>
-    </div>
-    
+    </table></section>
+</div>
 
-</table>
-
-
+</html>
