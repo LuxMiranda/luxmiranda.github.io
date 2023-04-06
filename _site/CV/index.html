@@ -179,10 +179,15 @@ table td:nth-child(1) {
   window.addEventListener('DOMContentLoaded', () => {
 
   const observer = new IntersectionObserver(entries => {
+    let firstActiveSectionFound = false; // Flag variable to track if first active section is found
     entries.forEach(entry => {
       const id = entry.target.getAttribute('id');
-      if (entry.intersectionRatio > 0) {
-        document.querySelector(`.section-nav li a[href="#${id}"]`).parentElement.classList.add('active');
+      if (!firstActiveSectionFound && entry.intersectionRatio > 0) { // Only add active class to first visible section
+        document.querySelectorAll('.section-nav li').forEach((item) => { // Clear all active sections
+          item.classList.remove('active');
+        });
+        document.querySelector(`.section-nav li a[href="#${id}"]`).parentElement.classList.add('active'); // Set the first visible section as active
+        firstActiveSectionFound = true; // Set flag variable to true
       } else {
         document.querySelector(`.section-nav li a[href="#${id}"]`).parentElement.classList.remove('active');
       }
@@ -195,6 +200,8 @@ table td:nth-child(1) {
   });
   
 });
+
+
 </script>
 
 <body>
