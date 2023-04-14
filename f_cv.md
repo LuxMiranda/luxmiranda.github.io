@@ -8,6 +8,12 @@ permalink: /CV/
 
 
 <div>
+<a class="nounderline" href="/CV.pdf">
+    <button class="btn">
+        <i class="fas fa-file-alt"></i> Download as PDF
+    </button>
+</a>
+
 
         <section id="education">
         <table>
@@ -424,4 +430,5 @@ permalink: /CV/
      
 
 </html>
+
 
