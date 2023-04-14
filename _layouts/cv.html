@@ -22,14 +22,19 @@ html {
 }
 
 /* ScrollSpy active styles */
+.section-nav li > a {
+  color: rgb(134, 139, 141);
+}
 .section-nav li.active > a {
-  color: red;
+  color: #ffaa00;
+  font-weight: bold;
 }
 
 /* Sidebar navigation */
 .section-nav {
-  padding-right: 0;
-  border-right: 1px solid #ffa200;
+  padding-left: 0;
+  margin-left: 20px;
+  border-left: 1px solid rgb(54, 59, 61);
 }
 
 .section-nav a {
@@ -40,7 +45,7 @@ html {
 }
 
 .section-nav a:hover, .section-nav a:focus {
-  color: blue;
+  color: #e2dfdc;
 }
 
 * {
@@ -53,15 +58,18 @@ html {
 
 .section-nav li {
   margin-right: 1rem;
+  display: block;
+  width: 100%;
 }
 
 @media (min-width: 600px) {
 
   .page-content {
     display: grid;
-    grid-template-columns: 20% 80%;
+    grid-template-columns: 75% 25%;
     width: 100%;
     margin: 0 auto;
+    margin-left: 15px;
   }
   table {
     width: 100% !important;
@@ -95,6 +103,17 @@ html {
     font-size: 12pt;
   }
 }
+
+@media(max-width: 760px) {
+  .page-content {
+    grid-template-columns: 100% 0%;
+  }
+  .section-nav {
+    visibility: hidden;
+  }
+}
+
+
 
 .cvsubheader, .cvheader {
     font-weight: bold;

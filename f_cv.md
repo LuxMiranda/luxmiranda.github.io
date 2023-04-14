@@ -7,23 +7,6 @@ permalink: /CV/
 <html>
 
 
-    <div class="section-nav">
-        <ol>
-            <li><a href="#education">Education</a></li>
-<li><a href="#publications">Publications</a></li>
-<li><a href="#research-experience">Research experience</a></li>
-<li><a href="#teaching-experience">Teaching experience</a></li>
-<li><a href="#admin-experience">Admin experience</a></li>
-<li><a href="#industry-experience">Industry experience</a></li>
-<li><a href="#scholarships">Scholarships</a></li>
-<li><a href="#awards">Awards</a></li>
-<li><a href="#presentations">Presentations</a></li>
-<li><a href="#winter-schools">Winter schools</a></li>
-<li><a href="#skills">Skills</a></li>
-        </ol>
-    </div>
-     
-
 <div>
 
         <section id="education">
@@ -53,7 +36,7 @@ permalink: /CV/
 
         <tr>
             <td>2016-2020</td>
-            <td><strong>Bachelor of Science with University Honors, double-major in Computational Mathematics and Computer Science, minor in Anthropology, <i>Cum Laude</i></strong><br><ul><li><a href="https://en.wikipedia.org/wiki/Utah%5FState%5FUniversity"><strong>Utah State University </strong></a> (USU) , <i>Logan, Utah, USA</i></li><br><li><a href="https://doi.org/10.1371/journal.pone.0232609"><strong>Honors thesis</strong></a>: <i>Computationally revealing recurrent social formations and their evolutionary trajectories</i></li></ul></td>
+            <td><strong>Bachelor of Science with University Honors, double-major in Computational Mathematics and Computer Science, minor in Anthropology, <i>Cum Laude</i></strong><br><ul><li><a href="https://en.wikipedia.org/wiki/Utah%5FState%5FUniversity"><strong>Utah State University</strong></a> (USU) , <i>Logan, Utah, USA</i></li><br><li><a href="https://doi.org/10.1371/journal.pone.0232609"><strong>Honors thesis</strong></a>: <i>Computationally revealing recurrent social formations and their evolutionary trajectories</i></li></ul></td>
         </tr>
     </table></section>
 
@@ -78,49 +61,49 @@ permalink: /CV/
 
         <tr>
             <td>2023 <br> <i>Invited manuscript</i></td>
-            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2023). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. <i>Journal of Artificial Societies and Social Sciences</i>. <a href="https://doi.org/10.18564/jasss.5069"><strong>https://doi.org/10.18564/jasss.5069 </strong></a></td>
+            <td><strong>Miranda, L.</strong>, Garibay O.O., & Baggio, J. (2023). Evolutionary model discovery of human behavioral factors driving decision-making in an irrigation experiment. <i>Journal of Artificial Societies and Social Sciences</i>. <a href="https://doi.org/10.18564/jasss.5069"><strong>https://doi.org/10.18564/jasss.5069</strong></a></td>
         </tr>
     
 
         <tr>
             <td>2023</td>
-            <td><strong>Miranda, L.</strong>, Castellano, G., & Winkle, K. (2023). Examining the State of Robot Identity. <i>Proceedings of the 18th Annual ACM/IEE International Conference on Human-Robot Interaction (HRI '23)</i>. <a href="https://doi.org/10.1145/3568294.3580168"><strong>https://doi.org/10.1145/3568294.3580168 </strong></a></td>
+            <td><strong>Miranda, L.</strong>, Castellano, G., & Winkle, K. (2023). Examining the State of Robot Identity. <i>Proceedings of the 18th Annual ACM/IEE International Conference on Human-Robot Interaction (HRI '23)</i>. <a href="https://doi.org/10.1145/3568294.3580168"><strong>https://doi.org/10.1145/3568294.3580168</strong></a></td>
         </tr>
     
 
         <tr>
             <td>2023</td>
-            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2023). Infrastructure and the energy use of human polities. <i>Cross-Cultural Research</i>. <a href="https://doi.org/10.1177/10693971221149779"><strong>https://doi.org/10.1177/10693971221149779 </strong></a></td>
+            <td>Freeman, J., Baggio, J., <strong>Miranda, L.</strong>, & Anderies, J.M. (2023). Infrastructure and the energy use of human polities. <i>Cross-Cultural Research</i>. <a href="https://doi.org/10.1177/10693971221149779"><strong>https://doi.org/10.1177/10693971221149779</strong></a></td>
         </tr>
     
 
         <tr>
             <td>2022 <br> <i>Invited manuscript</i></td>
-            <td><strong>Miranda, L.</strong> & Garibay O.O. (2022). Approaching (super)human intent recognition in stag hunt with the Naïve Utility Calculus generative model. <i>Computational and Mathematical Organization Theory</i>. <a href="https://doi.org/10.1007/s10588-022-09367-y"><strong>https://doi.org/10.1007/s10588-022-09367-y </strong></a></td>
+            <td><strong>Miranda, L.</strong> & Garibay O.O. (2022). Approaching (super)human intent recognition in stag hunt with the Naïve Utility Calculus generative model. <i>Computational and Mathematical Organization Theory</i>. <a href="https://doi.org/10.1007/s10588-022-09367-y"><strong>https://doi.org/10.1007/s10588-022-09367-y</strong></a></td>
         </tr>
     
 
         <tr>
             <td>2022</td>
-            <td><strong>Miranda, L.</strong> (2022). Humans in Algorithms, Algorithms in Humans: Understanding Cooperation and Creating Social AI with Causal Generative Models. <i>UCF Electronic Theses and Dissertations</i>. <a href="https://stars.library.ucf.edu/etd2020/1054"><strong>https://stars.library.ucf.edu/etd2020/1054 </strong></a></td>
+            <td><strong>Miranda, L.</strong> (2022). Humans in Algorithms, Algorithms in Humans: Understanding Cooperation and Creating Social AI with Causal Generative Models. <i>UCF Electronic Theses and Dissertations</i>. <a href="https://stars.library.ucf.edu/etd2020/1054"><strong>https://stars.library.ucf.edu/etd2020/1054</strong></a></td>
         </tr>
     
 
         <tr>
             <td>2022</td>
-            <td>Bird, D., <strong>Miranda, L.</strong>, Vander Linden, M. et al. (2022). p3k14c, a synthetic global database of archaeological radiocarbon dates. <i>Nature Scientific Data</i>. <a href="https://doi.org/10.1038/s41597-022-01118-7"><strong>10.1038/s41597-022-01118-7 </strong></a></td>
+            <td>Bird, D., <strong>Miranda, L.</strong>, Vander Linden, M. et al. (2022). p3k14c, a synthetic global database of archaeological radiocarbon dates. <i>Nature Scientific Data</i>. <a href="https://doi.org/10.1038/s41597-022-01118-7"><strong>10.1038/s41597-022-01118-7</strong></a></td>
         </tr>
     
 
         <tr>
             <td>2021 <br> Awarded <i>Best Human-Autonomy Teaming Paper</i></td>
-            <td><strong>Miranda, L.</strong> & Garibay O.O. (2021). Multi-agent Naïve Utility Calculus: Intent Recognition in the Stag-Hunt Game. <i>Social, Cultural, and Behavioral Modeling. SBP-BRiMS 2021.</i> Lecture Notes in Computer Science, vol 12720. <a href="https://doi.org/10.1007/978-3-030-80387-2%5F32"><strong>10.1007/978-3-030-80387 232 </strong></a></td>
+            <td><strong>Miranda, L.</strong> & Garibay O.O. (2021). Multi-agent Naïve Utility Calculus: Intent Recognition in the Stag-Hunt Game. <i>Social, Cultural, and Behavioral Modeling. SBP-BRiMS 2021.</i> Lecture Notes in Computer Science, vol 12720. <a href="https://doi.org/10.1007/978-3-030-80387-2%5F32"><strong>10.1007/978-3-030-80387 232</strong></a></td>
         </tr>
     
 
         <tr>
             <td>2020</td>
-            <td><strong>Miranda, L.</strong> & Freeman, J. (2020). The two types of society: Computationally revealing recurrent social formations and their evolutionary trajectories. <i>PLoS One</i> <a href="https://doi.org/10.1371/journal.pone.0232609"><strong>10.1371/journal.pone.0232609 </strong></a></td>
+            <td><strong>Miranda, L.</strong> & Freeman, J. (2020). The two types of society: Computationally revealing recurrent social formations and their evolutionary trajectories. <i>PLoS One</i> <a href="https://doi.org/10.1371/journal.pone.0232609"><strong>10.1371/journal.pone.0232609</strong></a></td>
         </tr>
     </table></section>
 
@@ -139,13 +122,13 @@ permalink: /CV/
 
         <tr>
             <td>August 2022 - <br> Present</td>
-            <td><strong>Doctoral student</strong>, <a href="https://usr-lab.github.io"><strong>Uppsala Social Robotics Lab </strong></a>. Studying the ethics and diversification of robot and user identity, expansive mind/body spaces, and their relation to AI alignment.</td>
+            <td><strong>Doctoral student</strong>, <a href="https://usr-lab.github.io"><strong>Uppsala Social Robotics Lab</strong></a>. Studying the ethics and diversification of robot and user identity, expansive mind/body spaces, and their relation to AI alignment.</td>
         </tr>
     
 
         <tr>
             <td>Summer 2022</td>
-            <td><strong>PIBBSS Summer Research Fellow</strong>. Awarded the $9,000 USD <a href="https://www.pibbss.ai/"><strong>Principles of Intelligent Behavior in Biological and Social Systems </strong></a> (PIBBSS) summer research fellowship to conduct research on <a href="https://en.wikipedia.org/wiki/AI%5Falignment"><strong>human-aligned AI systems </strong></a>.</td>
+            <td><strong>PIBBSS Summer Research Fellow</strong>. Awarded the $9,000 USD <a href="https://www.pibbss.ai/"><strong>Principles of Intelligent Behavior in Biological and Social Systems</strong></a> (PIBBSS) summer research fellowship to conduct research on <a href="https://en.wikipedia.org/wiki/AI%5Falignment"><strong>human-aligned AI systems</strong></a>.</td>
         </tr>
     
 
@@ -157,13 +140,13 @@ permalink: /CV/
 
         <tr>
             <td>August 2019 - August 2020 <br> (1 year)</td>
-            <td><strong>Undergraduate Research Assistant.</strong> <i>Utah State University Anthropology Program.</i> As part of an international archaeological working group known as <a href="https://pastglobalchanges.org/science/wg/people-3000/intro"><strong>PEOPLE 3000 </strong></a>, I helped to create and manage a new <a href="https://www.p3k14c.org/"><strong>radiocarbon database </strong></a> larger and more complete than any other. I also worked to program and test an online social experiment studying cooperation in a common-pool resource management scenario.</td>
+            <td><strong>Undergraduate Research Assistant.</strong> <i>Utah State University Anthropology Program.</i> As part of an international archaeological working group known as <a href="https://pastglobalchanges.org/science/wg/people-3000/intro"><strong>PEOPLE 3000</strong></a>, I helped to create and manage a new <a href="https://www.p3k14c.org/"><strong>radiocarbon database</strong></a> larger and more complete than any other. I also worked to program and test an online social experiment studying cooperation in a common-pool resource management scenario.</td>
         </tr>
     
 
         <tr>
             <td>Summer 2019</td>
-            <td><strong>Peak Summer Research Fellow.</strong> <i>Utah State University.</i> One of ten recipients awarded the $4,000 USD <a href="https://web.archive.org/web/20220521174643/https://research.usu.edu/peakfellows/index"><strong>Peak Summer Research Fellowship </strong></a> for highly-engaged undergraduate researchers to conduct work on a proposed project over the summer. The research conducted under this fellowship produced my first publication, listed above.</td>
+            <td><strong>Peak Summer Research Fellow.</strong> <i>Utah State University.</i> One of ten recipients awarded the $4,000 USD <a href="https://web.archive.org/web/20220521174643/https://research.usu.edu/peakfellows/index"><strong>Peak Summer Research Fellowship</strong></a> for highly-engaged undergraduate researchers to conduct work on a proposed project over the summer. The research conducted under this fellowship produced my first publication, listed above.</td>
         </tr>
     
 
@@ -275,7 +258,7 @@ permalink: /CV/
 
         <tr>
             <td>2016-2020 <br> (4 years)</td>
-            <td><strong>Daniels Scholarship.</strong> Received the full-ride <a href="https://www.danielsfund.org/scholarships/daniels-scholarship-program/overview"><strong>Daniels Scholarship </strong></a> (final award amount: $58,100 USD) to attend any four-year Bachelor's program in the USA for demonstrating exceptional leadership ability, strength of character, and commitment to community betterment. To maintain the scholarship, I was required to strictly keep the Daniels Scholar Code of Conduct which entailed working a paid position for at least ten hours per week during the semester, following all local laws, being involved in community betterment, and maintaining good academic standing.</td>
+            <td><strong>Daniels Scholarship.</strong> Received the full-ride <a href="https://www.danielsfund.org/scholarships/daniels-scholarship-program/overview"><strong>Daniels Scholarship</strong></a> (final award amount: $58,100 USD) to attend any four-year Bachelor's program in the USA for demonstrating exceptional leadership ability, strength of character, and commitment to community betterment. To maintain the scholarship, I was required to strictly keep the Daniels Scholar Code of Conduct which entailed working a paid position for at least ten hours per week during the semester, following all local laws, being involved in community betterment, and maintaining good academic standing.</td>
         </tr>
     </table></section>
 
@@ -422,4 +405,23 @@ permalink: /CV/
     </table></section>
 </div>
 
+
+    <div class="section-nav">
+        <ol>
+            <li><a href="#education">Education</a></li>
+<li><a href="#publications">Publications</a></li>
+<li><a href="#research-experience">Research experience</a></li>
+<li><a href="#teaching-experience">Teaching experience</a></li>
+<li><a href="#admin-experience">Admin experience</a></li>
+<li><a href="#industry-experience">Industry experience</a></li>
+<li><a href="#scholarships">Scholarships</a></li>
+<li><a href="#awards">Awards</a></li>
+<li><a href="#presentations">Presentations</a></li>
+<li><a href="#winter-schools">Winter schools</a></li>
+<li><a href="#skills">Skills</a></li>
+        </ol>
+    </div>
+     
+
 </html>
+
