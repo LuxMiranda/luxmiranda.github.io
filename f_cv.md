@@ -60,7 +60,7 @@ permalink: /CV/
     
 
         <tr>
-            <td>2024</td>
+            <td>2024 <br> <i>Best submission nominee</i></td>
             <td><strong>Miranda, L.</strong>, Castellano, G., & Winkle, K. (2024). A Case for Diverse Social Robot Identity Performance in Education. <i>Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI '24)</i>. <a href="https://doi.org/10.1145/3568294.3580168."><strong>https://doi.org/10.1145/3568294.3580168</strong></a></td>
         </tr>
     
@@ -284,6 +284,12 @@ permalink: /CV/
         <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Awards</td>
+        </tr>
+    
+
+        <tr>
+            <td>March 2024</td>
+            <td><strong>Best submission nominee / Honorable mention</strong> within the alt.HRI paper track at the ACM/IEEE International Conference on Human-Robot Interaction (HRI '24). <a href="https://doi.org/10.1145/3568294.3580168."><strong>Link to paper</strong></a></td>
         </tr>
     
 
