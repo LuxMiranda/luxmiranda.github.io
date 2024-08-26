@@ -14,17 +14,38 @@
   line-height: 56px;
   letter-spacing: -1px;
   margin-bottom: 0;
-  text-align:center;
-  a{
-    &,
-    &:visited
-    &:hover {
-      color: $brand-top-color; //$grey-color-dark
-      border-bottom: 1px dotted;
+  text-align: center;
+
+  a {
+    &, 
+    &:visited {
+      color: $brand-top-color; /* Or $grey-color-dark */
       text-decoration: none;
+      position: relative; /* Necessary for the underline effect */
+    }
+
+    /* Hover effect to animate the rainbow underline */
+    &:hover::after {
+      background-position: 0 0;
+    }
+
+    /* Underline effect */
+    &::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: -2px;
+      width: 100%;
+      height: 2px;
+      background: linear-gradient(90deg, cyan, $brand-top-color, $hover-color, $brand-top-color, $hover-color);
+      background-size: 200% 100%;
+      background-position: 100% 0; /* Start from the end of the gradient */
+      transition: background-position 0.5s ease-out; /* Adjust the timing and easing as needed */
     }
   }
 }
+
+
 
 .site-meta{
   font-size: 20px;
@@ -37,7 +58,7 @@
 
 .site-nav {
   line-height: 56px;
-  border-top: 1px solid $grey-color-light;
+  /*border-top: 1px solid $grey-color-light;*/
   border-bottom: 1px solid $grey-color-light;
 
   /* hide menu icon */
@@ -101,6 +122,7 @@
   }
 
 
+  /**
   @include media-query($on-palm) {
     position: relative;
     background-color: $background-color;
@@ -137,7 +159,7 @@
       display: block;
       padding: 5px 10px;
     }
-  }
+  } **/
 
 }
 
@@ -386,11 +408,18 @@ q:after {
 
 
 /** 
-  * Imae stuff
+  * Profile pic stuff
   */
 
 .profilepic {
   float: left;
   margin-top: 20px;
   margin-right: 20px;
+  width: 250px;
+
+  @include media-query($on-palm) {
+    width: 100%;
+    padding-bottom: 10px;
+  }
+
 }
