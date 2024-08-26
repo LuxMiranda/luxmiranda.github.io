@@ -60,7 +60,13 @@ permalink: /CV/
     
 
         <tr>
-            <td>2024 <br> <i>Best submission nominee</i></td>
+            <td>2024</td>
+            <td><strong>Miranda, L.</strong> (2024). Who is a robot? A fundamental model of artificial identity. <i>2024 33rd IEEE International Conference on Robot and Human Interactive Communication (ROMAN)</i>.</td>
+        </tr>
+    
+
+        <tr>
+            <td>2024 <br> <i>Honorable mention</i></td>
             <td><strong>Miranda, L.</strong>, Castellano, G., & Winkle, K. (2024). A Case for Diverse Social Robot Identity Performance in Education. <i>Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI '24)</i>. <a href="https://doi.org/10.1145/3568294.3580168."><strong>https://doi.org/10.1145/3568294.3580168</strong></a></td>
         </tr>
     
@@ -128,7 +134,7 @@ permalink: /CV/
 
         <tr>
             <td>August 2022 - <br> Present</td>
-            <td><strong>Doctoral student</strong>, <a href="https://usr-lab.github.io"><strong>Uppsala Social Robotics Lab</strong></a>. Studying the effects and ethics of emulating human social identity in social robotics.</td>
+            <td><strong>Doctoral student</strong>, <a href="https://usr-lab.github.io"><strong>Uppsala Social Robotics Lab</strong></a>. Studying the effects and ethics of emulating human social identity in social robots.</td>
         </tr>
     
 
@@ -213,8 +219,8 @@ permalink: /CV/
     
 
         <tr>
-            <td>August 2023 - <br> Present</td>
-            <td><strong>Chair</strong>, <a href="https://uudoctoralboard.se/"><strong>Doctoral Board of Uppsala University</strong></a>. Advocate for and represent all PhD students at Uppsala University's highest decision-making bodies. Coordinate elections to appoint PhD student representatives at boards across the university. Facilitate working groups to resolve structural issues facing PhD students concerning e.g. internationalization, well-being, and the university's climate impact.</td>
+            <td>August 2023 - <br> August 2024 <br> (1 year)</td>
+            <td><strong>Chair</strong>, <a href="https://uudoctoralboard.se/"><strong>Doctoral Board of Uppsala University</strong></a>. Advocated for and represented all PhD students at Uppsala University's highest decision-making bodies. Coordinated elections to appoint PhD student representatives at boards across the university. Facilitated working groups to resolve structural issues facing PhD students concerning e.g. internationalization, well-being, and the university's climate impact.</td>
         </tr>
     
 
@@ -311,7 +317,7 @@ permalink: /CV/
         </tr>
     </table></section>
 
-        <section id="presentations">
+        <section id="selected-talks">
         <table>
         <colgroup>
             <col span ="1" class="leftcol" >
@@ -320,49 +326,31 @@ permalink: /CV/
     
         <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
-            <td class="cvheader">Presentations</td>
+            <td class="cvheader">Selected talks</td>
         </tr>
     
 
         <tr>
-            <td>31 May 2023</td>
-            <td><i></i> Invited talk, <a href="https://mirrorlab.mines.edu/"><strong>Mines Interactive Robotics Research</strong></a> Summer Speaker Series. Presented virtually to a live audience in Golden, Colorado, USA</td>
+            <td>23 August 2024 <br> <i>Invited talk</i></td>
+            <td>Keynote: <a href="https://sites.google.com/view/qtechday/speakers-august-23?authuser=0"><strong>The absurd ease of making queer impact in tech</strong></a>, <i>QTechDay</i>, Uppsala, Sweden</td>
+        </tr>
+    
+
+        <tr>
+            <td>14 March 2024</td>
+            <td>A case for diverse social robot identity performance in education, <i>ACM/IEEE International Conference on Human-Robot Interaction</i>, Boulder, Colorado, USA</td>
+        </tr>
+    
+
+        <tr>
+            <td>31 May 2023 <br> <i>Invited talk</i></td>
+            <td><i>Let's get better at robot identity!</i>, <a href="https://mirrorlab.mines.edu/"><strong>Mines Interactive Robotics Research</strong></a> Summer Speaker Series. Presented virtually to a live audience in Golden, Colorado, USA</td>
         </tr>
     
 
         <tr>
             <td>14 March 2023</td>
             <td>Examining the state of robot identity - Poster presentation. <i>ACM/IEEE International Conference on Human-Robot Interaction</i>, Stockholm, Sweden</td>
-        </tr>
-    
-
-        <tr>
-            <td>06 December 2022</td>
-            <td>Interactive exhibit: What does it mean to ascribe identity to robots? <i>HRI Winterschool on Embodied AI 2022</i>, Ghent University, Belgium</td>
-        </tr>
-    
-
-        <tr>
-            <td>15 September 2022</td>
-            <td>Stochasity can not be ignored: Results from the evolutionary model discovery of behavioral factors driving decision-making in an irrigation experiment. <i>Social Simulation Conference 2022</i>. Milan, Italy / Virtual</td>
-        </tr>
-    
-
-        <tr>
-            <td>07 April 2022</td>
-            <td>Humans in Algorithms, Algorithms in Humans: Understanding Cooperation and Creating Social AI with Causal Generative Models. <i>Thesis Defense</i>. University of Central Florida, Orlando, Florida, USA</td>
-        </tr>
-    
-
-        <tr>
-            <td>07 July 2021</td>
-            <td>Multi-agent Naïve Utility Calculus: Intent Recognition in the Stag-Hunt Game. <i>2021 International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation</i>. Virtual</td>
-        </tr>
-    
-
-        <tr>
-            <td>10 June 2021</td>
-            <td>Evolutionary model discovery of behavioral factors driving decision-making in an irrigation experiment. <i>Inverse Generative Social Science (iGSS) Workshop 2021</i>. Virtual <a href="https://youtu.be/Z7zmaHVSHdc"><strong>https://youtu.be/Z7zmaHVSHdc</strong></a></td>
         </tr>
     </table></section>
 
@@ -395,6 +383,12 @@ permalink: /CV/
         <tr class="cvheaderrow">
             <td class="cvheader"><img class="gradient" src="/images/gradient.png" /></td>
             <td class="cvheader">Summer and winter schools</td>
+        </tr>
+    
+
+        <tr>
+            <td>August 2024</td>
+            <td><strong><a href="http://web.archive.org/web/20240826112752/https://wasp-sweden.org/event/joint-summer-school-on-generative-ai-2024/"><strong>WASP Summer School on Generative AI</strong></a></strong>, Norrköping Visualization Center, Sweden</td>
         </tr>
     
 
@@ -465,7 +459,7 @@ permalink: /CV/
 <li><a href="#industry-experience">Industry experience</a></li>
 <li><a href="#scholarships">Scholarships</a></li>
 <li><a href="#awards">Awards</a></li>
-<li><a href="#presentations">Presentations</a></li>
+<li><a href="#selected-talks">Selected talks</a></li>
 <li><a href="#organized-workshops">Organized workshops</a></li>
 <li><a href="#summer-and-winter-schools">Summer and winter schools</a></li>
 <li><a href="#skills">Skills</a></li>
