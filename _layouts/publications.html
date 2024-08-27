@@ -97,6 +97,7 @@ h3 {
          <i class="fas fa-file-alt"></i> pdf
          </button>
     </a>
+
     {% if post.gscholar %}
     <a class="nounderline" href="{{ post.gscholar }}">
       <button class="btn">
@@ -104,6 +105,15 @@ h3 {
       </button>
     </a>
     {% endif %}
+
+    {% if post.youtube %}
+    <a class="nounderline" href="{{ post.youtube }}">
+      <button class="btn">
+      <i class="fab fa-youtube"></i> video presentation
+      </button>
+    </a>
+    {% endif %}
+
 
     </div>
     <!-- End post body -->
