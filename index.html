@@ -3,10 +3,14 @@ layout: default
 ---
 
 <div class="home">
-  <video autoplay loop muted playsinline class="profilepic">
+  <video autoplay muted loop playsinline class="profilepic" id="vid">
     <source src="/images/lux.mp4" type="video/mp4">
     Your browser does not support the video tag. 
   </video>
+  <script>
+    document.getElementById('vid').play();
+  </script>
+
 
   <br />
   <p>Hi, I'm Lux (like the SI unit for <a href="https://en.wikipedia.org/wiki/Lux">lumens per square metre</a>)! </p>
