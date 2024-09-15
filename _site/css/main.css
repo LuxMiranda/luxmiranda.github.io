@@ -269,7 +269,10 @@ cite {
       text-decoration: none;
       position: relative;
       /* Necessary for the underline effect */ }
+    .site-title a:hover {
+      color: white; }
     .site-title a:hover::after {
+      color: white;
       background-position: 0 0; }
     .site-title a::after {
       content: '';
@@ -301,46 +304,7 @@ cite {
   /* style for navigation list */
   /* style for navigation list items */
   /* style for navigation list items on hover */
-  /* animation for sparkling effect */
-  /* style for links inside navigation list items */
-  /**
-  @include media-query($on-palm) {
-    position: relative;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: center;
-
-    .menu-icon {
-      display: block;
-      line-height: 0;
-      text-align: center;
-
-      > svg {
-        width: 18px;
-        height: 30px;
-
-        path {
-          fill: $text-color;
-        }
-      }
-    }
-
-    .trigger {
-      clear: both;
-      display: none;
-    }
-
-    &:hover .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-
-    .page-link {
-      display: block;
-      padding: 5px 10px;
-    }
-  } **/ }
+  /* style for links inside navigation list items */ }
   .site-nav .menu-icon {
     display: none; }
   .site-nav .nav-ul {
@@ -353,20 +317,25 @@ cite {
     position: relative;
     /* add position */ }
   .site-nav .nav-li:hover {
-    /* add a sparkling effect on hover */
-    background-color: #303537;
-    animation: fade-in 0.4s linear 1; }
-@keyframes fade-in {
+    background: linear-gradient(315deg, transparent 33%, #ff0095);
+    background-size: 200% 200%;
+    /* Larger than the element for movement */
+    animation: gradient-shift 2s linear infinite;
+    /* Smooth infinite animation */ }
+@keyframes gradient-shift {
   0% {
-    background-color: rgba(48, 53, 55, 0); }
+    background-position: 0% 50%; }
+  50% {
+    background-position: 100% 50%; }
   100% {
-    background-color: #303537; } }
+    background-position: 0% 50%; } }
   .site-nav .nav-li a {
     display: block;
     text-align: center;
     padding: 7px 16px;
     color: #d8d4cf;
-    /* move link color here */ }
+    /* move link color here */
+    opacity: 1; }
   .site-nav .page-link {
     color: #d8d4cf; }
   .site-nav a {

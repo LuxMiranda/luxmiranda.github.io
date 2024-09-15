@@ -24,8 +24,13 @@
       position: relative; /* Necessary for the underline effect */
     }
 
+    &:hover {
+      color: white;
+    }
+
     /* Hover effect to animate the rainbow underline */
     &:hover::after {
+      color: white;
       background-position: 0 0;
     }
 
@@ -82,20 +87,20 @@
 
   /* style for navigation list items on hover */
   .nav-li:hover {
-    /* add a sparkling effect on hover */
-  //  background: linear-gradient(90deg, rgba(48,53,55,1) 29%, rgba(218,5,130,1) 42%, rgba(255,162,0,1) 48%, rgba(255,162,0,1) 53%, rgba(218,5,130,1) 60%, rgba(48,53,55,1) 70%);
-    //background-size: 800%;
-    background-color: rgba(48,53,55,1);
-    animation: fade-in 0.4s linear 1;
-  }
+  background: linear-gradient(315deg, transparent 33%, $brand-color);
+  background-size: 200% 200%; /* Larger than the element for movement */
+  animation: gradient-shift 2s linear infinite; /* Smooth infinite animation */
+}
 
-  /* animation for sparkling effect */
-  @keyframes fade-in {
+  @keyframes gradient-shift {
     0% {
-      background-color: rgba(48,53,55,0);
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
     }
     100% {
-       background-color: rgba(48,53,55,1);
+      background-position: 0% 50%;
     }
   }
 
@@ -105,6 +110,7 @@
     text-align: center;
     padding: 7px 16px;
     color: $grey-color; /* move link color here */
+    opacity: 1;
   }
 
   .page-link {
@@ -120,47 +126,6 @@
       //font-weight: bold;
     }
   }
-
-
-  /**
-  @include media-query($on-palm) {
-    position: relative;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: center;
-
-    .menu-icon {
-      display: block;
-      line-height: 0;
-      text-align: center;
-
-      > svg {
-        width: 18px;
-        height: 30px;
-
-        path {
-          fill: $text-color;
-        }
-      }
-    }
-
-    .trigger {
-      clear: both;
-      display: none;
-    }
-
-    &:hover .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-
-    .page-link {
-      display: block;
-      padding: 5px 10px;
-    }
-  } **/
-
 }
 
 
