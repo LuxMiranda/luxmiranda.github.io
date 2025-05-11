@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Recipes
+nav: True
 permalink: /recipes/
 ---
 

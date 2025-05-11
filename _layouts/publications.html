@@ -2,29 +2,11 @@
 
 {% include head.html %}
 
+<link rel="stylesheet" href="/css/buttons.css">
+
 <html>
 
 <style>
-
-.btn {
-  padding: 8px;
-  border: 1px solid #ffa200;
-  margin-top:6px;
-  border-radius: 2px;
-  background-color: rgb(27, 30, 31);
-  cursor: pointer;
-  text-decoration: none;
-  color: #ffa200;
-  transition: 0.3s;
-}
-
-.btn:hover {
-  box-shadow: 0 0px 8px 0 #ffa200;
-}
-
-.nounderline:hover {
-  text-decoration: none;
-}
 
 .post {
   display: flex;
@@ -115,6 +97,7 @@ h3 {
          <i class="fas fa-file-alt"></i> pdf
          </button>
     </a>
+
     {% if post.gscholar %}
     <a class="nounderline" href="{{ post.gscholar }}">
       <button class="btn">
@@ -122,6 +105,15 @@ h3 {
       </button>
     </a>
     {% endif %}
+
+    {% if post.youtube %}
+    <a class="nounderline" href="{{ post.youtube }}">
+      <button class="btn">
+      <i class="fab fa-youtube"></i> video presentation
+      </button>
+    </a>
+    {% endif %}
+
 
     </div>
     <!-- End post body -->

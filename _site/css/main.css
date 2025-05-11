@@ -241,7 +241,7 @@ cite {
   color: #e2dfdc !important; }
 
 .site-nav {
-  border-top: 1px solid #363b3d !important;
+  /*border-top: $borders !important;*/
   border-bottom: 1px solid #363b3d !important; }
 
 .site-footer {
@@ -260,11 +260,33 @@ cite {
   letter-spacing: -1px;
   margin-bottom: 0;
   text-align: center; }
-  .site-title a, .site-title a:visited
-  .site-title a:hover {
-    color: #ffa200;
-    border-bottom: 1px dotted;
-    text-decoration: none; }
+  .site-title a {
+    /* Hover effect to animate the rainbow underline */
+    /* Underline effect */ }
+    .site-title a, .site-title a:visited {
+      color: #ffa200;
+      /* Or $grey-color-dark */
+      text-decoration: none;
+      position: relative;
+      /* Necessary for the underline effect */ }
+    .site-title a:hover {
+      color: white; }
+    .site-title a:hover::after {
+      color: white;
+      background-position: 0 0; }
+    .site-title a::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: -2px;
+      width: 100%;
+      height: 2px;
+      background: linear-gradient(90deg, cyan, #ffa200, #ff0095, #ffa200, #ff0095);
+      background-size: 200% 100%;
+      background-position: 100% 0;
+      /* Start from the end of the gradient */
+      transition: background-position 0.5s ease-out;
+      /* Adjust the timing and easing as needed */ }
 
 .site-meta {
   font-size: 20px;
@@ -276,13 +298,12 @@ cite {
 
 .site-nav {
   line-height: 56px;
-  border-top: 1px solid white;
+  /*border-top: 1px solid $grey-color-light;*/
   border-bottom: 1px solid white;
   /* hide menu icon */
   /* style for navigation list */
   /* style for navigation list items */
   /* style for navigation list items on hover */
-  /* animation for sparkling effect */
   /* style for links inside navigation list items */ }
   .site-nav .menu-icon {
     display: none; }
@@ -296,20 +317,25 @@ cite {
     position: relative;
     /* add position */ }
   .site-nav .nav-li:hover {
-    /* add a sparkling effect on hover */
-    background-color: #303537;
-    animation: fade-in 0.4s linear 1; }
-@keyframes fade-in {
+    background: linear-gradient(315deg, transparent 33%, #ff0095);
+    background-size: 200% 200%;
+    /* Larger than the element for movement */
+    animation: gradient-shift 2s linear infinite;
+    /* Smooth infinite animation */ }
+@keyframes gradient-shift {
   0% {
-    background-color: rgba(48, 53, 55, 0); }
+    background-position: 0% 50%; }
+  50% {
+    background-position: 100% 50%; }
   100% {
-    background-color: #303537; } }
+    background-position: 0% 50%; } }
   .site-nav .nav-li a {
     display: block;
     text-align: center;
     padding: 7px 16px;
     color: #d8d4cf;
-    /* move link color here */ }
+    /* move link color here */
+    opacity: 1; }
   .site-nav .page-link {
     color: #d8d4cf; }
   .site-nav a {
@@ -317,31 +343,6 @@ cite {
     .site-nav a:hover {
       color: #e2dfdc;
       text-decoration: none; }
-  @media screen and (max-width: 600px) {
-    .site-nav {
-      position: relative;
-      background-color: #1d2021;
-      border: 1px solid white;
-      border-radius: 5px;
-      text-align: center; }
-      .site-nav .menu-icon {
-        display: block;
-        line-height: 0;
-        text-align: center; }
-        .site-nav .menu-icon > svg {
-          width: 18px;
-          height: 30px; }
-          .site-nav .menu-icon > svg path {
-            fill: #e2dfdc; }
-      .site-nav .trigger {
-        clear: both;
-        display: none; }
-      .site-nav:hover .trigger {
-        display: block;
-        padding-bottom: 5px; }
-      .site-nav .page-link {
-        display: block;
-        padding: 5px 10px; } }
 
 /**
  * Sidebar
@@ -527,12 +528,17 @@ q:after {
   font-weight: bold; }
 
 /** 
-  * Imae stuff
+  * Profile pic stuff
   */
 .profilepic {
   float: left;
   margin-top: 20px;
-  margin-right: 20px; }
+  margin-right: 20px;
+  width: 250px; }
+  @media screen and (max-width: 600px) {
+    .profilepic {
+      width: 100%;
+      padding-bottom: 10px; } }
 
 .highlight {
   /* Comment */
