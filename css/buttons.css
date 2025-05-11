@@ -1,0 +1,20 @@
+.btn {
+  padding: 8px;
+  border: 1px solid #ffa200;
+  margin-top:6px;
+  border-radius: 2px;
+  background-color: rgb(27, 30, 31);
+  cursor: pointer;
+  text-decoration: none;
+  color: #ffa200;
+  transition: 0.3s;
+  clip-path: inset(-15px -15px 0px -15px);
+}
+
+.btn:hover {
+  box-shadow: 0 0px 13px 0 #ffa200;
+}
+
+.nounderline:hover {
+  text-decoration: none;
+}

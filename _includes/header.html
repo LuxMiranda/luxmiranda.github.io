@@ -16,7 +16,7 @@
       <div class="trigger" style="text-transform: lowercase;">
         <ul class="nav-ul">
         {% for page in site.pages %}
-        {% if page.title %}
+        {% if page.nav %}
         <li class="nav-li"><n><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title | replace: page.title, site.locales[site.default_locale].[page.title] }}</a></n></li>
         {% endif %}
         {% endfor %}
