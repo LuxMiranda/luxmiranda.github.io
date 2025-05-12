@@ -1,0 +1,390 @@
+@charset "utf-8";
+
+/**
+ * Site header
+ */
+.site-header {
+  //Positioning context for the mobile navigation icon
+  position: relative;
+}
+
+.site-title {
+  font-family: 'Forum', 'EB Garamond', serif !important;
+  font-size: 38px;
+  line-height: 56px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  text-align: center;
+
+  a {
+    &, 
+    &:visited {
+      color: $brand-top-color; /* Or $grey-color-dark */
+      text-decoration: none;
+      position: relative; /* Necessary for the underline effect */
+    }
+
+    &:hover {
+      color: white;
+    }
+
+    /* Hover effect to animate the rainbow underline */
+    &:hover::after {
+      color: white;
+      background-position: 0 0;
+    }
+
+    /* Underline effect */
+    &::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: -2px;
+      width: 100%;
+      height: 2px;
+      background: linear-gradient(90deg, cyan, $brand-top-color, $hover-color, $brand-top-color, $hover-color);
+      background-size: 200% 100%;
+      background-position: 100% 0; /* Start from the end of the gradient */
+      transition: background-position 0.5s ease-out; /* Adjust the timing and easing as needed */
+    }
+  }
+}
+
+
+
+.site-meta{
+  font-size: 20px;
+  line-height:56px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  text-align:center; 
+  color: $grey-color;
+}
+
+.site-nav {
+  line-height: 56px;
+  /*border-top: 1px solid $grey-color-light;*/
+  border-bottom: 1px solid $grey-color-light;
+
+  /* hide menu icon */
+  .menu-icon {
+    display: none;
+  }
+
+  /* style for navigation list */
+  .nav-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  /* style for navigation list items */
+  .nav-li {
+    float: left;
+    position: relative; /* add position */
+  }
+
+  /* style for navigation list items on hover */
+  .nav-li:hover {
+  background: linear-gradient(315deg, transparent 33%, $brand-color);
+  background-size: 200% 200%; /* Larger than the element for movement */
+  animation: gradient-shift 2s linear infinite; /* Smooth infinite animation */
+}
+
+  @keyframes gradient-shift {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  /* style for links inside navigation list items */
+  .nav-li a {
+    display: block;
+    text-align: center;
+    padding: 7px 16px;
+    color: $grey-color; /* move link color here */
+    opacity: 1;
+  }
+
+  .page-link {
+    color: $grey-color;
+  }
+
+  a{
+    text-decoration: none;
+
+    &:hover {
+      color: $text-color;
+      text-decoration: none;
+      //font-weight: bold;
+    }
+  }
+}
+
+
+/**
+ * Sidebar
+ */
+
+.sidebar-module {
+  margin-top: 25px;
+  font-size: 14px;
+  h4{
+    font-size: $base-font-size;
+    font-weight: bold;
+    color: $grey-color-dark;
+    text-align: center;
+  }
+  li{
+    list-style: none; 
+  }
+
+}
+
+.follow-icons {
+  table{
+    margin: 0px auto;
+    border: 0px;
+  }
+  tr{
+    border: 0px;
+  }
+  td{
+    padding: 6px;
+    border: 0px;
+  }
+}
+
+
+/**
+ * Site footer
+ */
+
+.site-footer {
+  clear: both;
+  text-align: center;
+  background-color: $background-color;
+  border-top: 1px solid $grey-color-light;
+  margin: $spacing-unit 0; 
+  padding: $spacing-unit 0;
+  font-size: 14px;
+}
+
+
+
+/**
+ * Page content
+ */
+.page-content {
+  padding: $spacing-unit*1.8 0;
+  margin-left: 30px;
+  strong { font-weight: bold; }
+
+}
+
+.page-heading {
+  font-size: 20px;
+}
+
+.post-meta {
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+
+.post-link {
+  display: block;
+  font-size: 24px;//42px;
+  font-weight: bold; 
+}
+
+
+
+/**
+ * Posts
+ */
+.post-header {
+  margin-bottom: $spacing-unit;
+  time{
+      margin-left: 0px;
+      font-style: normal;
+
+  }
+}
+
+.post-title {
+  font-size: 38px;//42px;
+  letter-spacing: -1px;
+  line-height: 1;
+
+  @include media-query($on-laptop) {
+    font-size: 36px;
+  }
+}
+
+
+
+#markdown-toc{
+  float: right;
+  width:50%;
+  background:#f4f7f8;
+  padding:20px 15px;
+  li{
+    padding-top:10px;
+    position:relative; 
+    list-style-type:none;  
+  }
+}
+
+#markdown-toc:before{
+  content:"Table of Contents";
+  font-weight: 700;
+  padding-left:10px;
+  border-bottom:5px solid $grey-color-light !important;
+  display:block;
+  font-size:18px
+}
+
+
+
+.post-content {
+  p { padding:$spacing-unit/5 0; } 
+  //margin-bottom: $spacing-unit;
+  h1 { 
+    font-size: 38px;
+    line-height:1em;
+    @include media-query($on-laptop){
+      font-size: 36px;
+    }
+
+  }
+  h2 {
+    font-size: 32px;
+    line-height:1em;
+    @include media-query($on-laptop) {
+      font-size: 28px;
+    }
+  }
+
+  h3 {
+    font-size: 26px;
+    line-height:1em;
+
+    @include media-query($on-laptop) {
+      font-size: 22px;
+    }
+  }
+
+  h4 {
+    font-size: 20px;
+    line-height:1em;
+
+    @include media-query($on-laptop) {
+      font-size: 18px;
+    }
+  }
+}
+
+
+/**
+ * Pagination Style
+ */
+
+.pager{
+  margin-bottom: 60px;
+  text-align: center;
+  ul { display: block; margin: 20px 0; }
+  li{list-style: none;}
+  li.previous a{float:left;}
+  li.next a{float:right;}
+  li.disabled {display:none;}
+}
+
+
+/**
+ * Tags and Categories Style
+ */
+
+.tags-box{
+  li {
+    list-style: none;
+    font-weight: bold;
+    margin-top:10px;
+  }
+  .size{
+    font-size: 0.7em; font-weight: bold; vertical-align: super;
+  }
+}
+
+
+/*time style of tages and categories*/
+
+time{
+  margin-left: 15px;
+  font-style: italic;
+}
+
+
+
+/**
+ * Aboutme photo Style
+ */
+
+
+.about{
+  img{
+    height: 128px;
+    width: 128px;
+    border-radius:50%;
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+.img-about{
+  height: 128px;
+  width: 128px;
+  border-radius:50%;
+  margin: 0 auto;
+  display: block;
+}
+
+
+/**
+ * New style for quotation.
+ */
+
+q:before {
+  content: '"';
+  color: #DD1144;
+  font-weight:bold;
+}
+q:after {
+  content:'"';
+  color: #DD1144;
+  font-weight:bold;
+}
+
+
+/** 
+  * Profile pic stuff
+  */
+
+.profilepic {
+  float: left;
+  margin-top: 20px;
+  margin-right: 20px;
+  width: 250px;
+
+  @include media-query($on-palm) {
+    width: 100%;
+    padding-bottom: 10px;
+  }
+
+}
