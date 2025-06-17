@@ -3,7 +3,7 @@ title: lux miranda
 author: lux miranda
 email: lux.miranda@it.uu.se
 description: "lux miranda's homepage" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "lux, miranda, anthropology, computer science, cultural evolution, mathematics, cliodynamics, complex adaptive systems, complexity"
+keywords: "lux, miranda, AI, artificial intelligence, human-robot interaction, anthropology, computer science, cultural evolution, mathematics, cliodynamics, complex adaptive systems, complexity, uppsala"
 baseurl: # the subpath of your site, e.g. /blog/
 url: "https://luxmiranda.com" # the base hostname & protocol for your site
 locale: en_US
@@ -22,10 +22,15 @@ ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on ab
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
 
+collections:
+  presses:
+    output: true
+
 locales:
     en:
       Aboutme: "About Me"
       Recipes: "Recipes"
+      Press: "Press"
       CV: "CV"
       Archives: "Archives"
       Blogroll: "Blogroll"

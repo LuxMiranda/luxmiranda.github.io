@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+
+{% include head.html %}
+
+<link rel="stylesheet" href="/css/buttons.css">
+
+<html>
+
+<style>
+
+.post {
+  display: flex;
+  border-bottom: 1px solid;
+  border-bottom-color: rgb(57, 61, 64) !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.thumb {
+  flex: 30%;
+  margin: 10px;
+}
+
+.post-body {
+  flex: 70%;
+  margin: 10px;
+}
+
+h3 {
+  font-weight: bold;
+  margin-bottom: 0px;
+  font-size:1.3em;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.post-venue { 
+  font-weight: bold;
+}
+
+.post-details {
+  font-family: 'Lato' !important;
+  font-size: 0.8em;
+}
+
+.post-press-author {
+}
+
+@media (max-width: 600px) {
+ .post-body { 
+    font-size: 0.7em;
+    line-height: 1.3em;
+  }
+  h3 {
+    font-size: 1em;
+    line-height: 1.3em;
+  }
+
+  .thumb {
+    margin-right: 0px;
+  }
+  .btn {
+    font-size: 0.7em;
+  }
+
+}
+
+</style>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+<body>
+
+<div class="container">
+
+{% include header.html %}
+
+<div class="posts">
+
+  {% assign sorted_posts = site.presses | sort: 'date' | reverse %}
+  {% for post in sorted_posts %}
+    <div class="post">
+
+        <div class="thumb">
+          <a href="{{ post.doi }}"><img src="{{ post.image }}" alt="{{ post.imagealt }}" /></a>
+        </div>
+
+        <!--
+          Want:
+          Title Authors Date PDF link
+          Google scholar link
+
+        -->
+        <div class="post-body"> 
+    <!-- Post body -->
+    <text class="post-venue">{{ post.venue }}</text>
+    <h3><a href="{{ post.doi }}" class="pub-title">{{ post.title }}</a></h3>
+
+    <div class="post-details">
+    by <text class="post-press-author">{{ post.author }}</text>
+
+    {% if post.language %}
+    (in {{ post.language }})
+    {% endif %}
+
+    <br>
+
+    <i>{{ post.date | date: "%-d %b %Y" }}</i><br>
+
+    {% if post.youtube %}
+    <a class="nounderline" href="{{ post.youtube }}">
+      <button class="btn">
+      <i class="fab fa-youtube"></i> video presentation
+      </button>
+    </a>
+    {% endif %}
+    </div>
+
+
+    <!-- End post body -->
+ 
+        </div>
+
+    </div>
+  {% endfor %}
+</div>
+
+{% include footer.html %}
+
+</div>
+
+</body>
+</html>
